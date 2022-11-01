@@ -1,4 +1,7 @@
-ore:
-  coal:
-    durability: 5
-    regen: 10
+list:
+  TEST:
+  - material: CLAY_BALL
+  - title: Тест
+  TEST2:
+  - material: DIAMOND_SWORD
+  - title: Олмизный метч
