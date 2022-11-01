@@ -1,7 +1,7 @@
 list:
   TEST:
-  - material: CLAY_BALL
-  - title: Тест
+    material: CLAY_BALL
+    title: Тест
   TEST2:
-  - material: DIAMOND_SWORD
-  - title: Олмизный метч
+    material: DIAMOND_SWORD
+    title: Олмизный метч
