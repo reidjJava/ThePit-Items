@@ -1,3 +1,4 @@
-list:
-  - material: CLAY_BALL
-  - title: Тест
+ore:
+  coal:
+    durability: 5
+    regen: 10
