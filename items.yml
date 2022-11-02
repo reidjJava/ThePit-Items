@@ -1,7 +1,8 @@
 list:
   TEST:
-    material: CLAY_BALL
-    title: Тес
-  TEST2:
     material: DIAMOND_SWORD
-    title: Олмизный метч
+    title: Самый лучший меч
+    attributes:
+      - health:1.0:5.0
+      - regeneration:1.0:2.5
+      - damage:1.0:3.0
