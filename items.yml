@@ -1,17 +1,4 @@
 list:
-  TEST:
-    material: 'DIAMOND_SWORD'
-    title: '&5Самый лучший меч'
-    texture: 'sample'
-    lore: 
-      - 'Редкость &6Легендарный'
-      - '&fЕтот предмет был выкован кузнецом масисеем'
-      - 'из редких забивных сплавов'
-      - 'что наделяет доспех невиданными свойствами.'
-    attributes:
-      - health:1.0:5.0
-      - regeneration:1.0:2.5
-      - damage:1.0:3.0
    TEST2:
     material: 'DIAMOND_HELMET'
     title: '&5Самый лучший шлем'
