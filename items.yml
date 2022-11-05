@@ -1,5 +1,5 @@
 list:
-   TEST2:
+  TEST2:
     material: 'DIAMOND_HELMET'
     title: '&5Самый лучший шлем'
     texture: 'sample'
@@ -12,7 +12,7 @@ list:
       - health:1.0:5.0
       - regeneration:1.0:2.5
       - damage:1.0:3.0
-   TEST3:
+  TEST3:
     material: 'DIAMOND_CHESTPLATE'
     title: '&5Самый лучший меч'
     texture: 'sample'
@@ -24,7 +24,7 @@ list:
     attributes:
       - health:1.0:5.0
       - regeneration:1.0:2.5
-   TEST4:
+  TEST4:
     material: 'DIAMOND_LEGGINGS'
     title: '&5Самый лучший меч'
     texture: 'sample'
