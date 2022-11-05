@@ -1,6 +1,6 @@
 list:
-  TEST4:
-    material: 'DIAMOND_LEGGINGS'
+  TEST:
+    material: 'DIAMOND_SWORD'
     title: '&5Самый лучший меч'
     texture: 'sample'
     lore: 
