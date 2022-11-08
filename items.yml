@@ -12,6 +12,11 @@ list:
       - health:1.0:5.0
       - regeneration:1.0:2.5
       - damage:1.0:3.0
+      - chance_critical_damage:0.1:1.0
+      - critical_damage_strength:0.1:1.0
+      - move_speed:1.0:3.0
+      - vampirism:0.1:2.0
+      - entity_protection:1.0:3.0
   TEST3:
     material: 'DIAMOND_CHESTPLATE'
     title: '&5Самый лучший меч'
