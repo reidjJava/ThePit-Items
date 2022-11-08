@@ -29,16 +29,24 @@ list:
     attributes:
       - health:1.0:5.0
       - regeneration:1.0:2.5
-  TEST4:
-    material: 'DIAMOND_LEGGINGS'
-    title: '&5Самый лучший меч'
-    texture: 'sample'
-    lore: 
-      - 'Редкость &6Легендарный'
-      - '&fЕтот предмет был выкован кузнецом масисеем'
-      - 'из редких забивных сплавов'
-      - 'что наделяет доспех невиданными свойствами.'
-    attributes:
-      - health:1.0:5.0
-      - regeneration:1.0:2.5
-      - damage:1.0:3.0
+  QUARTS_WHETSTONE:
+    material: 'CLAY_BALL'
+    title: '&7Кварцевый точильный камень'
+    texture: 'quartz_whetstone'
+    lore:
+      - 'Редкость &7Обычный'
+    sharpening_chance: 30
+  DIAMOND_WHETSTONE:
+    material: 'CLAY_BALL'
+    title: '&5Алмазный точильный камень'
+    texture: 'diamond_whetstone'
+    lore:
+      - 'Редкость &7Эпический'
+    sharpening_chance: 40
+  MAGMA_WHETSTONE:
+    material: 'CLAY_BALL'
+    title: '&cМагмовый точильный камень'
+    texture: 'magma_whetstone'
+    lore:
+      - 'Редкость &7Эпический'
+    sharpening_chance: 50
