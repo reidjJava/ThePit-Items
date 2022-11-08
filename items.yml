@@ -35,18 +35,18 @@ list:
     texture: 'quartz_whetstone'
     lore:
       - 'Редкость &7Обычный'
-    sharpening_chance: 30
+    sharpening_chance: '30'
   DIAMOND_WHETSTONE:
     material: 'CLAY_BALL'
     title: '&5Алмазный точильный камень'
     texture: 'diamond_whetstone'
     lore:
       - 'Редкость &7Эпический'
-    sharpening_chance: 40
+    sharpening_chance: '40'
   MAGMA_WHETSTONE:
     material: 'CLAY_BALL'
     title: '&cМагмовый точильный камень'
     texture: 'magma_whetstone'
     lore:
       - 'Редкость &7Эпический'
-    sharpening_chance: 50
+    sharpening_chance: '50'
