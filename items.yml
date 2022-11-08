@@ -1,22 +1,22 @@
 list:
-  TEST2:
-    material: 'DIAMOND_HELMET'
-    title: '&5Самый лучший шлем'
+  DEMONIC:
+    material: 'IRON_SWORD'
+    title: '&4Разрубатель Нечисти'
     texture: 'sample'
     lore: 
-      - 'Редкость &6Легендарный'
-      - '&fЕтот предмет был выкован кузнецом масисеем'
-      - 'из редких забивных сплавов'
+      - 'Редкость: &5[&5Эпический]'
+      - '&fДанный предмет был выкован в Королестве Элдерии, для уничтожения нечисти на Континенте.'
+      - '&f'
       - 'что наделяет доспех невиданными свойствами.'
     attributes:
-      - health:1.0:5.0
-      - regeneration:1.0:2.5
-      - damage:1.0:3.0
-      - chance_critical_damage:0.1:1.0
-      - critical_damage_strength:0.1:1.0
-      - move_speed:1.0:3.0
-      - vampirism:0.1:2.0
-      - entity_protection:1.0:3.0
+      - health:3.0
+      - regeneration:2.5
+      - damage:7.0
+      - chance_critical_damage:0.2
+      - critical_damage_strength:0.1
+      - move_speed:1.5
+      - vampirism:0.3
+      - entity_protection:1.2
   TEST3:
     material: 'DIAMOND_CHESTPLATE'
     title: '&5Самый лучший меч'
