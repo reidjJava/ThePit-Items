@@ -1,22 +1,4 @@
 list:
-  DEMONIC:
-    material: 'IRON_SWORD'
-    title: '&4Разрубатель Нечисти'
-    texture: 'demonic'
-    lore:
-      - 'Редкость: &5[&5Эпический]'
-      - '&fДанный предмет был выкован в Королестве Элдерии, для уничтожения нечисти на Континенте.'
-      - '&f'
-      - 'что наделяет доспех невиданными свойствами.'
-    attributes:
-      - health:3.0:3.0
-      - regeneration:2.5:2.5
-      - damage:7.0:7.0
-      - chance_critical_damage:0.2:0.2
-      - critical_damage_strength:0.1:0.1
-      - move_speed:1.5:1.5
-      - vampirism:0.3:0.3
-      - entity_protection:1.2:1.2
   TEST2:
     material: 'DIAMOND_CHESTPLATE'
     title: '&5Самый лучший меч'
