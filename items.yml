@@ -44,7 +44,7 @@ list:
     lore:
       - 'Редкость &7Эпический'
     sharpening_chance: 0.40
-        sharpening_cost: 2000
+    sharpening_cost: 2000
   MAGMA_WHETSTONE:
     material: 'CLAY_BALL'
     title: '&cМагмовый точильный камень'
