@@ -18,6 +18,7 @@ list:
     lore:
       - 'Редкость &7Обычный'
     sharpening_chance: 0.30
+    sharpening_price: 1000
   DIAMOND_WHETSTONE:
     material: 'CLAY_BALL'
     title: '&5Алмазный точильный камень'
@@ -25,6 +26,7 @@ list:
     lore:
       - 'Редкость &7Эпический'
     sharpening_chance: 0.40
+    sharpening_price: 2000
   MAGMA_WHETSTONE:
     material: 'CLAY_BALL'
     title: '&cМагмовый точильный камень'
@@ -32,3 +34,4 @@ list:
     lore:
       - 'Редкость &7Эпический'
     sharpening_chance: 0.50
+    sharpening_price: 3000
