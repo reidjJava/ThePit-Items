@@ -17,6 +17,7 @@ list:
     texture: 'quartz_whetstone'
     lore:
       - 'Редкость &7Обычный'
+      - 'Тут описание бла бла'
     sharpening_chance: 0.30
     sharpening_price: 1000.0
   DIAMOND_WHETSTONE:
@@ -25,6 +26,7 @@ list:
     texture: 'diamond_whetstone'
     lore:
       - 'Редкость &7Эпический'
+      - 'Тут описание бла бла'
     sharpening_chance: 0.40
     sharpening_price: 2000.0
   MAGMA_WHETSTONE:
@@ -33,5 +35,6 @@ list:
     texture: 'magma_whetstone'
     lore:
       - 'Редкость &7Эпический'
+      - 'Тут описание бла бла'
     sharpening_chance: 0.50
     sharpening_price: 3000.0
