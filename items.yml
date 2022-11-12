@@ -11,6 +11,7 @@ items:
     attributes:
       - 'health:1.0:5.0'
       - 'regeneration:1.0:2.5'
+    sharpeningLevel: 0
   QUARTS_WHETSTONE:
     material: 'CLAY_BALL'
     title: '&7Кварцевый точильный камень'
