@@ -48,7 +48,7 @@ items:
       - ''
       - ''
     attributes:
-      - '[☠]'damage:1.0:5.0'
-      - '[❤️]'health:1.0:2.5'
+      - '[☠]''damage:1.0:5.0'
+      - '[❤️]''health:1.0:2.5'
       - 'regeneration:1.0:2.5'
     sharpeningLevel: 0
