@@ -58,7 +58,7 @@ items:
   KNIGHT:
     material: 'IRON_CHESTPLATE'
     title: '&9Доспехи Стража'
-    texture: 'set3_1'
+    texture: 'chest3'
     lore:
       - '&7Качество: &aНеобычное'
     attributes:
