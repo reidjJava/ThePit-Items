@@ -63,5 +63,5 @@ items:
     lore:
       - '&7Качество: &aНеобычное'
     attributes:
-      - 'health:1.0:1.0
+      - 'health:1.0:1.0'
     sharpeningLevel: 0
