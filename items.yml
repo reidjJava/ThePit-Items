@@ -71,3 +71,19 @@ items:
       - '&7Качество: &aНеобычное'
     attributes:
       - 'health:1.0:1.0'
+  KNIGHT_LEGGINGS:
+    material: 'IRON_LEGGINGS'
+    title: '&9Наголенники Стража'
+    texture: 'knight'
+    lore:
+      - '&7Качество: &aНеобычное'
+    attributes:
+      - 'health:1.0:1.0'
+   KNIGHT_BOOTS:
+    material: 'IRON_BOOTS'
+    title: '&9Ботфорты Стража'
+    texture: 'knight'
+    lore:
+      - '&7Качество: &aНеобычное'
+    attributes:
+      - 'health:1.0:1.0'
