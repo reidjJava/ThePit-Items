@@ -55,7 +55,15 @@ items:
       - 'health:1.0:2.5'
       - 'regeneration:1.0:2.5'
     sharpeningLevel: 0
-  KNIGHT:
+  KNIGHT_HELMET:
+    material: 'IRON_HELMET'
+    title: '&9Наголовник Стража'
+    texture: 'knight'
+    lore:
+      - '&7Качество: &aНеобычное'
+    attributes:
+      - 'health:1.0:1.0'
+  KNIGHT_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&9Доспехи Стража'
     texture: 'knight'
