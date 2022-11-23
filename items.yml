@@ -4,12 +4,16 @@ items:
     title: '&6Самый лучший нагрудник'
     texture: 'sample'
     lore:
-      - '&7Персональный при поднятии'
-      - '&6Легендарный предмет'
-      - ''
+      - '&7Качество: &6Легендарный предмет'
     attributes:
       - 'health:1.0:5.0'
       - 'regeneration:1.0:2.5'
+      - 'damage:1.0:2.5'
+      - 'chance_critical_damage:1.0:2.5'
+      - 'critical_damage_strength:1.5:3.0'
+      - 'move_speed:0.1:1.5'
+      - 'vampirism:0.1:1.0'
+      - 'entity_protection:0.5:3:0'
     sharpeningLevel: 0
   QUARTS_WHETSTONE:
     material: 'CLAY_BALL'
