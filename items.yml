@@ -56,7 +56,7 @@ items:
       - 'health:1.0:2.5'
       - 'regeneration:1.0:2.5'
     sharpeningLevel: 0
-   KNIGHT:
+  KNIGHT:
     material: 'IRON_CHESTPLATE'
     title: '&9Доспехи Стража'
     texture: 'set3_1'
