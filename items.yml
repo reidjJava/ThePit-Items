@@ -41,7 +41,6 @@ items:
       - 'Тут описание бла бла'
     sharpening_chance: 0.50
     sharpening_price: 3000.0
-    items:
   PLAM:
     material: 'DIAMOND_SWORD'
     title: '&6Пламя Королевы'
@@ -56,4 +55,13 @@ items:
       - 'damage:1.0:5.0'
       - 'health:1.0:2.5'
       - 'regeneration:1.0:2.5'
+    sharpeningLevel: 0
+   KNIGHT:
+    material: 'IRON_CHESTPLATE'
+    title: '&9Доспехи Стража'
+    texture: 'sample'
+    lore:
+      - '&7Качество: &aНеобычное'
+    attributes:
+      - 'health:1.0:1.0
     sharpeningLevel: 0
