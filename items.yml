@@ -87,3 +87,31 @@ items:
       - '&7Качество: &aНеобычное'
     attributes:
       - 'health:1.0:1.0'
+  RUBILO:
+    material: 'IRON_SWORD'
+    title: '&5Рубило Орков'
+    texture: 'sample'
+    lore:
+      - '&7Уровень предмета: &5100'
+      - '&7&lКачество: &5&lМифический'
+      - ''
+      - ''
+      - ''
+    attributes:
+      - 'damage:1.0:5.0'
+      - 'health:1.0:2.5'
+      - 'regeneration:1.0:2.5'
+   RASSEKATEL:
+    material: 'IRON_SWORD'
+    title: '&5Рассекатель Гор'
+    texture: 'sample'
+    lore:
+      - '&7Уровень предмета: &5100'
+      - '&7&lКачество: &5&lМифический'
+      - ''
+      - ''
+      - ''
+    attributes:
+      - 'damage:1.0:5.0'
+      - 'health:1.0:2.5'
+      - 'regeneration:1.0:2.5'
