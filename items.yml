@@ -133,7 +133,7 @@ items:
   BALROG_SKIPETER:
     material: 'IRON_SWORD'
     title: '&6Астральный Скипетр'
-    texture: 'sword27'
+    texture: 'sword2'
     lore:
       - '&7Качество: &6Легендарный предмет'
       - ''
@@ -145,7 +145,7 @@ items:
   BALROG_SWORD:
     material: 'IRON_SWORD'
     title: '&6Искушение Балрога'
-    texture: 'sword26'
+    texture: 'sword1'
     lore:
       - '&7Качество: &6Легендарный предмет'
       - ''
