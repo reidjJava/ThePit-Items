@@ -85,7 +85,7 @@ items:
       - 'health:1.0:1.0'
       - 'regeneration:1.0:1.0'
       - 'entity_protection:1.0:1:0'
- KNIGHT_BOOTS:
+  KNIGHT_BOOTS:
     material: 'IRON_BOOTS'
     title: '&9Ботфорты Стража'
     texture: 'knight'
