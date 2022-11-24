@@ -107,7 +107,7 @@ items:
   RASSEKATEL:
     material: 'STONE_SWORD'
     title: '&9Рассекатель Гор'
-    texture: 'sword52'
+    texture: 'sword38'
     lore:
       - '&7Качество: &9Редкий Предмет'
       - ''
