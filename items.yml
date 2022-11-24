@@ -96,18 +96,18 @@ items:
       - 'regeneration:1.0:1.0'
       - 'entity_protection:1.0:1:0'
   RUBILO:
-    material: 'IRON_SWORD'
+    material: 'STONE_SWORD'
     title: '&aКлинок Орков'
-    texture: 'sample'
+    texture: 'sword12'
     lore:
       - '&7Качество: &aНеобычный предмет'
     attributes:
       - 'damage:1.0:1:0'
       - 'chance_critical_damage:1.0:1.0'
   RASSEKATEL:
-    material: 'IRON_SWORD'
+    material: 'STONE_SWORD'
     title: '&9Рассекатель Гор'
-    texture: 'sample'
+    texture: 'sword52'
     lore:
       - '&7Качество: &9Редкий Предмет'
       - ''
