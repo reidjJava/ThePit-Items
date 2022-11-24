@@ -98,7 +98,7 @@ items:
   RUBILO:
     material: 'STONE_SWORD'
     title: '&aКлинок Орков'
-    texture: 'sword12'
+    texture: 'sword30'
     lore:
       - '&7Качество: &aНеобычный предмет'
     attributes:
