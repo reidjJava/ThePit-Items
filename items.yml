@@ -143,7 +143,7 @@ items:
       - 'damage:1.0:1.0'
       - 'chance_critical_damage:1.0:1.0'
       - 'critical_damage_strength:1.0:1.0'
-   BALROG_SWORD:
+  BALROG_SWORD:
     material: 'IRON_SWORD'
     title: '&6Искушение Балрога'
     texture: 'sword26'
