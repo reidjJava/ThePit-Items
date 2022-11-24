@@ -114,8 +114,8 @@ items:
       - ''
       - ''
     attributes:
-      - 'damage:1.0:1.0'
-      - 'chance_critical_damage:1.0:1.0'
+      - 'damage:1.5:1.5'
+      - 'chance_critical_damage:1.2:1.2'
       - 'critical_damage_strength:1.0:1.0'
   BALROG_DEMONIC:
     material: 'IRON_SWORD'
@@ -127,9 +127,9 @@ items:
       - ''
       - ''
     attributes:
-      - 'damage:1.0:1.0'
-      - 'chance_critical_damage:1.0:1.0'
-      - 'critical_damage_strength:1.0:1.0'
+      - 'damage:3.0:3.0'
+      - 'chance_critical_damage:1.5:1.5'
+      - 'critical_damage_strength:1.2:1.2'
   BALROG_SKIPETER:
     material: 'IRON_SWORD'
     title: '&6Астральный Скипетр'
@@ -140,9 +140,8 @@ items:
       - ''
       - ''
     attributes:
-      - 'damage:1.0:1.0'
-      - 'chance_critical_damage:1.0:1.0'
-      - 'critical_damage_strength:1.0:1.0'
+      - 'damage:4.0:4.0'
+      - 'vampirism:2.0:2.0'
   BALROG_SWORD:
     material: 'IRON_SWORD'
     title: '&6Искушение Балрога'
@@ -153,6 +152,6 @@ items:
       - ''
       - ''
     attributes:
-      - 'damage:1.0:1.0'
-      - 'chance_critical_damage:1.0:1.0'
-      - 'critical_damage_strength:1.0:1.0'
+      - 'damage:5.5:5.5'
+      - 'chance_critical_damage:3.5:3.5'
+      - 'critical_damage_strength:2.0:2.0'
