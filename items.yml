@@ -97,24 +97,23 @@ items:
       - 'entity_protection:1.0:1:0'
   RUBILO:
     material: 'IRON_SWORD'
-    title: '&5Рубило Орков'
+    title: '&aКлинок Орков'
     texture: 'sample'
     lore:
-      - '&7Качество: &5Мифический предмет'
+      - '&7Качество: &aНеобычный предмет'
     attributes:
-      - 'damage:1.0:5.0'
-      - 'health:1.0:2.5'
-      - 'regeneration:1.0:2.5'
+      - 'damage:1.0:1:0'
+      - 'chance_critical_damage:1.0:1.0'
   RASSEKATEL:
     material: 'IRON_SWORD'
-    title: '&5Рассекатель Гор'
+    title: '&9Рассекатель Гор'
     texture: 'sample'
     lore:
-      - '&7Качество: &5Мифический предмет'
+      - '&7Качество: &9Редкий Предмет'
       - ''
       - ''
       - ''
     attributes:
       - 'damage:1.0:5.0'
-      - 'health:1.0:2.5'
-      - 'regeneration:1.0:2.5'
+      - 'chance_critical_damage:1.0:1.0'
+      - 'critical_damage_strength:1.5:3.0'
