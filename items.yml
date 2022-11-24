@@ -117,3 +117,42 @@ items:
       - 'damage:1.0:1.0'
       - 'chance_critical_damage:1.0:1.0'
       - 'critical_damage_strength:1.0:1.0'
+   BALROG_DEMONIC:
+    material: 'IRON_SWORD'
+    title: '&5Оскверненный меч Балрога'
+    texture: 'sword56'
+    lore:
+      - '&7Качество: &5Мифический предмет'
+      - ''
+      - ''
+      - ''
+    attributes:
+      - 'damage:1.0:1.0'
+      - 'chance_critical_damage:1.0:1.0'
+      - 'critical_damage_strength:1.0:1.0'
+  BALROG_SKIPETER:
+    material: 'IRON_SWORD'
+    title: '&6Астральный Скипетр'
+    texture: 'sword27'
+    lore:
+      - '&7Качество: &6Легендарный предмет'
+      - ''
+      - ''
+      - ''
+    attributes:
+      - 'damage:1.0:1.0'
+      - 'chance_critical_damage:1.0:1.0'
+      - 'critical_damage_strength:1.0:1.0'
+    BALROG_SWORD:
+    material: 'IRON_SWORD'
+    title: '&6Искушение Балрога'
+    texture: 'sword26'
+    lore:
+      - '&7Качество: &6Легендарный предмет'
+      - ''
+      - ''
+      - ''
+    attributes:
+      - 'damage:1.0:1.0'
+      - 'chance_critical_damage:1.0:1.0'
+      - 'critical_damage_strength:1.0:1.0'
