@@ -29,7 +29,7 @@ items:
     sharpening_price: 1000.0
   DIAMOND_WHETSTONE:
     material: 'CLAY_BALL'
-    title: '&9Алмазный точильный камень'
+    title: '&9Азеритовый точильный камень'
     texture: 'diamond_whetstone'
     lore:
       - '&7Редкость: &9Редкий предмет'
@@ -43,7 +43,7 @@ items:
     sharpening_price: 2000.0
   OBSIDIAN_WHETSTONE:
     material: 'CLAY_BALL'
-    title: '&5Обсидиановый точильный камень'
+    title: '&5Титановый точильный камень'
     texture: 'obsidian_whetstone'
     lore:
       - '&7Редкость: &5Мифический предмет'
