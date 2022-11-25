@@ -215,3 +215,35 @@ items:
       - '&7Качество: &aНеобычное'
     attributes:
       - 'health:1.0:1.0'
+  BALROG_HELMET:
+    material: 'IRON_HELMET'
+    title: '&5Демоническое Око Балрога'
+    texture: 'sample'
+    lore:
+      - '&7Качество: &5Мифическое'
+    attributes:
+      - 'health:10.0:10.0'
+  BALROG_CHESTPLATE:
+    material: 'IRON_CHESTPLATE'
+    title: '&5Демонические Доспехи Балрога'
+    texture: 'sample'
+    lore:
+      - '&7Качество: &5Мифическое'
+    attributes:
+     - 'health:10.0:10.0'
+  BALROG_LEGGINGS:
+    material: 'IRON_LEGGINGS'
+    title: '&5Демонические Ножны Балрога'
+    texture: 'sample'
+    lore:
+      - '&7Качество: &5Мифическое'
+    attributes:
+     - 'health:10.0:10.0'
+  BALROG_BOOTS:
+    material: 'IRON_BOOTS'
+    title: '&5Демонические Ботфорты Балрога'
+    texture: 'sample'
+    lore:
+      - '&7Качество: &5Мифическое'
+    attributes:
+     - 'health:10.0:10.0'
