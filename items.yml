@@ -66,7 +66,7 @@ items:
       - '&7Шанс успешной заточки &c100%&7.'
       - ''
       - '&7Можно купить в Магазине.'
-    sharpening_chance: 0.100
+    sharpening_chance: 1.0
     sharpening_price: 4000.0
   PLAM:
     material: 'DIAMOND_SWORD'
