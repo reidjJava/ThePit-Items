@@ -55,6 +55,19 @@ items:
       - '&7в "Обители".'
     sharpening_chance: 0.30
     sharpening_price: 3000.0
+  GOOD_WHETSTONE:
+    material: 'CLAY_BALL'
+    title: '&6Благой точильный камень'
+    texture: 'good_whetstone'
+    lore:
+      - '&7Редкость: &6Легендарный предмет'
+      - ''
+      - '&7Используется для улучшения предметов.'
+      - '&7Шанс успешной заточки &c100%&7.'
+      - ''
+      - '&7Можно купить в Магазине.'
+    sharpening_chance: 0.100
+    sharpening_price: 4000.0
   PLAM:
     material: 'DIAMOND_SWORD'
     title: '&6Пламя Королевы'
