@@ -123,6 +123,19 @@ items:
       - 'health:1.0:1.0'
       - 'regeneration:1.0:1.0'
       - 'entity_protection:1.0:1:0'
+  KNIGHT_SWORD:
+    material: 'STONE_SWORD'
+    title: '&9Двуручный меч Стража'
+    texture: 'sword38'
+    lore:
+      - '&7Качество: &9Редкий Предмет'
+      - ''
+      - ''
+      - ''
+    attributes:
+      - 'damage:1.5:1.5'
+      - 'chance_critical_damage:1.2:1.2'
+      - 'critical_damage_strength:1.0:1.0'
   RUBILO:
     material: 'STONE_SWORD'
     title: '&aКлинок Орков'
@@ -247,3 +260,4 @@ items:
       - '&7Качество: &5Мифическое'
     attributes:
      - 'health:10.0:10.0'
+ 
