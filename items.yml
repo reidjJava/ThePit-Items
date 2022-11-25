@@ -105,7 +105,7 @@ items:
       - 'entity_protection:1.0:1:0'
   KNIGHT_LEGGINGS:
     material: 'IRON_LEGGINGS'
-    title: '&9Наголенники Стража'
+    title: '&9Ножные латы Стража'
     texture: 'knight'
     lore:
       - '&7Качество: &9Редкое'
@@ -183,3 +183,35 @@ items:
       - 'damage:5.5:5.5'
       - 'chance_critical_damage:3.5:3.5'
       - 'critical_damage_strength:2.0:2.0'
+  ORK_HELMET:
+    material: 'CHAIN_HELMET'
+    title: '&aНаголовник Орка'
+    texture: 'sample'
+    lore:
+      - '&7Качество: &aНеобычное'
+    attributes:
+      - 'health:1.0:1.0'
+  ORK_CHESTPLATE:
+    material: 'CHAIN_CHESTPLATE'
+    title: '&aДоспех Орка'
+    texture: 'sample'
+    lore:
+      - '&7Качество: &aНеобычное'
+    attributes:
+      - 'health:1.0:1.0' 
+  ORK_LEGGINGS:
+    material: 'CHAIN_LEGGINGS'
+    title: '&aНожный доспех Орка'
+    texture: 'sample'
+    lore:
+      - '&7Качество: &aНеобычное'
+    attributes:
+      - 'health:1.0:1.0'
+  ORK_BOOTS:
+    material: 'CHAIN_HELMET'
+    title: '&aБотфорты Орка'
+    texture: 'sample'
+    lore:
+      - '&7Качество: &aНеобычное'
+    attributes:
+      - 'health:1.0:1.0'
