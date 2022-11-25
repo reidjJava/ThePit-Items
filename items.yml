@@ -13,15 +13,15 @@ items:
       - 'critical_damage_strength:1.5:3.0'
       - 'vampirism:0.1:1.0'
       - 'entity_protection:0.5:3:0'
-  QUARTS_WHETSTONE:
+  SARONITE_WHETSTONE:
     material: 'CLAY_BALL'
-    title: '&7Кварцевый точильный камень'
-    texture: 'quartz_whetstone'
+    title: '&7Саронитовый точильный камень'
+    texture: 'saronite_whetstone'
     lore:
       - '&7Редкость: Обычный предмет'
       - ''
       - '&7Используется для улучшения предметов.'
-      - '&7Шанс успешной заточки 10%'
+      - '&7Шанс успешной заточки &c10%'
       - ''
       - '&7Можно получить в награду или купить'
       - '&7в "Обители".'
@@ -30,26 +30,26 @@ items:
   DIAMOND_WHETSTONE:
     material: 'CLAY_BALL'
     title: '&9Алмазный точильный камень'
-    texture: 'quartz_whetstone'
+    texture: 'diamond_whetstone'
     lore:
       - '&7Редкость: &9Редкий предмет'
       - ''
       - '&7Используется для улучшения предметов.'
-      - '&7Шанс успешной заточки 20%'
+      - '&7Шанс успешной заточки &c20%'
       - ''
       - '&7Можно получить в награду или купить'
       - '&7в "Обители".'
     sharpening_chance: 0.20
     sharpening_price: 2000.0
-  MAGMA_WHETSTONE:
+  OBSIDIAN_WHETSTONE:
     material: 'CLAY_BALL'
-    title: '&5Магмовый точильный камень'
-    texture: 'quartz_whetstone'
+    title: '&5Обсидиановый точильный камень'
+    texture: 'obsidian_whetstone'
     lore:
       - '&7Редкость: &5Мифический предмет'
       - ''
       - '&7Используется для улучшения предметов.'
-      - '&7Шанс успешной заточки 30%'
+      - '&7Шанс успешной заточки &c30%'
       - ''
       - '&7Можно получить в награду или купить'
       - '&7в "Обители".'
