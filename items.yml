@@ -186,7 +186,7 @@ items:
   ORK_HELMET:
     material: 'CHAINMAIL_HELMET'
     title: '&aНаголовник Орка'
-    texture: 'ruby224_helm'
+    texture: 'ork'
     lore:
       - '&7Качество: &aНеобычное'
     attributes:
@@ -194,7 +194,7 @@ items:
   ORK_CHESTPLATE:
     material: 'CHAINMAIL_CHESTPLATE'
     title: '&aДоспех Орка'
-    texture: 'ruby224_chest'
+    texture: 'ork'
     lore:
       - '&7Качество: &aНеобычное'
     attributes:
@@ -202,7 +202,7 @@ items:
   ORK_LEGGINGS:
     material: 'CHAINMAIL_LEGGINGS'
     title: '&aНожный доспех Орка'
-    texture: 'ruby224_leggins'
+    texture: 'ork'
     lore:
       - '&7Качество: &aНеобычное'
     attributes:
@@ -210,7 +210,7 @@ items:
   ORK_BOOTS:
     material: 'CHAINMAIL_BOOTS'
     title: '&aБотфорты Орка'
-    texture: 'ruby224_boots'
+    texture: 'ork'
     lore:
       - '&7Качество: &aНеобычное'
     attributes:
