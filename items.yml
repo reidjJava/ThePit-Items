@@ -184,7 +184,7 @@ items:
       - 'chance_critical_damage:3.5:3.5'
       - 'critical_damage_strength:2.0:2.0'
   ORK_HELMET:
-    material: 'CHAIN_HELMET'
+    material: 'CHAINMAIL_HELMET'
     title: '&aНаголовник Орка'
     texture: 'ruby224_helm'
     lore:
@@ -192,7 +192,7 @@ items:
     attributes:
       - 'health:1.0:1.0'
   ORK_CHESTPLATE:
-    material: 'CHAIN_CHESTPLATE'
+    material: 'CHAINMAIL_CHESTPLATE'
     title: '&aДоспех Орка'
     texture: 'ruby224_chest'
     lore:
@@ -200,7 +200,7 @@ items:
     attributes:
       - 'health:1.0:1.0' 
   ORK_LEGGINGS:
-    material: 'CHAIN_LEGGINGS'
+    material: 'CHAINMAIL_LEGGINGS'
     title: '&aНожный доспех Орка'
     texture: 'ruby224_leggins'
     lore:
@@ -208,7 +208,7 @@ items:
     attributes:
       - 'health:1.0:1.0'
   ORK_BOOTS:
-    material: 'CHAIN_BOOTS'
+    material: 'CHAINMAIL_BOOTS'
     title: '&aБотфорты Орка'
     texture: 'ruby224_boots'
     lore:
