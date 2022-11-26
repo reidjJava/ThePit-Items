@@ -109,7 +109,7 @@ items:
       - 'regeneration:1.0:1.0'
       - 'entity_protection:1.0:1:0'
   KNIGHT_SWORD:
-    material: 'STONE_SWORD'
+    material: 'IRON_SWORD'
     title: '&9Двуручный меч Стража'
     texture: 'knight_sword'
     lore:
