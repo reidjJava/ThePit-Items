@@ -216,7 +216,7 @@ items:
   GOR_HELMET:
     material: 'IRON_HELMET'
     title: '&9Наголовник Мглистой Горы'
-    texture: 'sample'
+    texture: 'gora'
     lore:
       - '&7Качество: &9Редкий предмет'
     attributes:
@@ -224,7 +224,7 @@ items:
   GOR_CHESTPLATE:
     material: 'IRON_HELMET'
     title: '&9Доспехи Мглистой Горы'
-    texture: 'sample'
+    texture: 'gora'
     lore:
       - '&7Качество: &9Редкий предмет'
     attributes:
@@ -232,7 +232,7 @@ items:
   GOR_LEGGINGS:
     material: 'IRON_HELMET'
     title: '&9Ножные доспехи Мглистой Горы'
-    texture: 'sample'
+    texture: 'gora'
     lore:
       - '&7Качество: &9Редкий предмет'
     attributes:
@@ -240,7 +240,7 @@ items:
   GOR_BOOTS:
     material: 'IRON_HELMET'
     title: '&9Ботфорты Мглистой Горы'
-    texture: 'sample'
+    texture: 'gora'
     lore:
       - '&7Качество: &9Редкий предмет'
     attributes:
