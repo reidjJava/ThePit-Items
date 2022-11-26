@@ -68,21 +68,6 @@ items:
       - '&7Можно купить в Магазине.'
     sharpening_chance: 1.0
     sharpening_price: 4000.0
-  PLAM:
-    material: 'DIAMOND_SWORD'
-    title: '&6Пламя Королевы'
-    texture: 'amasword6'
-    lore:
-      - '&7Уровень предмета: &5100'
-      - '&7&lКачество: &e&lАртефакт'
-      - ''
-      - '&7&lОписание: &f&lМеч из Недр Вулкана, некогда принадлежавший Огненной Королеве.'
-      - '&f&lГоворят, что данный меч превращает в пепел души поверженных врагов навсегда...'
-    attributes:
-      - 'damage:1.0:5.0'
-      - 'health:1.0:2.5'
-      - 'regeneration:1.0:2.5'
-    sharpeningLevel: 0
   KNIGHT_HELMET:
     material: 'IRON_HELMET'
     title: '&9Наголовник Стража'
@@ -126,7 +111,7 @@ items:
   KNIGHT_SWORD:
     material: 'STONE_SWORD'
     title: '&9Двуручный меч Стража'
-    texture: 'sword38'
+    texture: 'sword78'
     lore:
       - '&7Качество: &9Редкий Предмет'
       - ''
