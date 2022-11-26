@@ -222,7 +222,7 @@ items:
     attributes:
       - 'health:10.0:10.0'
   GOR_CHESTPLATE:
-    material: 'IRON_HELMET'
+    material: 'IRON_CHESTPLATE'
     title: '&9Доспехи Мглистой Горы'
     texture: 'gora'
     lore:
@@ -230,7 +230,7 @@ items:
     attributes:
       - 'health:10.0:10.0'
   GOR_LEGGINGS:
-    material: 'IRON_HELMET'
+    material: 'IRON_LEGGINGS'
     title: '&9Ножные доспехи Мглистой Горы'
     texture: 'gora'
     lore:
@@ -238,7 +238,7 @@ items:
     attributes:
       - 'health:10.0:10.0'
   GOR_BOOTS:
-    material: 'IRON_HELMET'
+    material: 'IRON_BOOTS'
     title: '&9Ботфорты Мглистой Горы'
     texture: 'gora'
     lore:
