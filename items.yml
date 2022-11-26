@@ -260,6 +260,19 @@ items:
       - '&7Качество: &9Редкий'
     attributes:
       - 'health:10.0:10.0'
+  GOR_SWORD:
+    material: 'STONE_SWORD'
+    title: '&9Пронзатель Гор'
+    texture: 'sample'
+    lore:
+      - '&7Качество: &9Редкий Предмет'
+      - ''
+      - ''
+      - ''
+    attributes:
+      - 'damage:1.5:1.5'
+      - 'chance_critical_damage:1.2:1.2'
+      - 'critical_damage_strength:1.0:1.0'
   BALROG_HELMET:
     material: 'IRON_HELMET'
     title: '&5Демоническое Око Балрога'
