@@ -111,7 +111,7 @@ items:
   KNIGHT_SWORD:
     material: 'STONE_SWORD'
     title: '&9Двуручный меч Стража'
-    texture: 'sword78'
+    texture: 'knight_sword'
     lore:
       - '&7Качество: &9Редкий Предмет'
       - ''
