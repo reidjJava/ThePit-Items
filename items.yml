@@ -228,6 +228,38 @@ items:
       - '&7Качество: &aНеобычное'
     attributes:
       - 'health:1.0:1.0'
+  GOR_HELMET:
+    material: 'IRON_HELMET'
+    title: '&9Наголовник Мглистой Горы'
+    texture: 'sample'
+    lore:
+      - '&7Качество: &9Редкий'
+    attributes:
+      - 'health:10.0:10.0'
+  GOR_CHESTPLATE:
+    material: 'IRON_HELMET'
+    title: '&9Доспехи Мглистой Горы'
+    texture: 'sample'
+    lore:
+      - '&7Качество: &9Редкий'
+    attributes:
+      - 'health:10.0:10.0'
+  GOR_LEGGINGS:
+    material: 'IRON_HELMET'
+    title: '&9Ножные доспехи Мглистой Горы'
+    texture: 'sample'
+    lore:
+      - '&7Качество: &9Редкий'
+    attributes:
+      - 'health:10.0:10.0'
+  GOR_BOOTS:
+    material: 'IRON_HELMET'
+    title: '&9Ботфорты Мглистой Горы'
+    texture: 'sample'
+    lore:
+      - '&7Качество: &9Редкий'
+    attributes:
+      - 'health:10.0:10.0'
   BALROG_HELMET:
     material: 'IRON_HELMET'
     title: '&5Демоническое Око Балрога'
