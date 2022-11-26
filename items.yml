@@ -308,7 +308,7 @@ items:
   BALROG_SF:
     material: 'CLAY_BALL'
     title: '&cСфера Хаоса'
-    texture: 'sample'
+    texture: 'ingot'
     lore:
       - '&7Редкость: &cАртефакт'
       - ''
@@ -320,7 +320,7 @@ items:
   BALROG_SKULL:
     material: 'CLAY_BALL'
     title: '&cЧереп Демона'
-    texture: 'sample'
+    texture: 'skull'
     lore:
       - '&7Редкость: &cАртефакт'
       - ''
@@ -332,7 +332,7 @@ items:
   BALROG_RING:
     material: 'CLAY_BALL'
     title: '&cКольцо Демона'
-    texture: 'sample'
+    texture: 'ring'
     lore:
       - '&7Редкость: &cАртефакт'
       - ''
@@ -356,7 +356,7 @@ items:
   PALLADI:
     material: 'CLAY_BALL'
     title: '&9Палладий'
-    texture: 'sample'
+    texture: 'palad'
     lore:
       - '&7Редкость: &9Редкий предмет'
       - ''
@@ -368,7 +368,7 @@ items:
   ADAMANTITE:
     material: 'CLAY_BALL'
     title: '&5Адамантит'
-    texture: 'sample'
+    texture: 'adam'
     lore:
       - '&7Редкость: &5Мифический предмет'
       - ''
@@ -380,7 +380,7 @@ items:
   TITAN:
     material: 'CLAY_BALL'
     title: '&6Титан'
-    texture: 'sample'
+    texture: 'titan'
     lore:
       - '&7Редкость: &6Легендарный предмет'
       - ''
