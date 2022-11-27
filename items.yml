@@ -246,7 +246,7 @@ items:
     attributes:
       - 'health:10.0:10.0'
   GOR_SWORD:
-    material: 'STONE_SWORD'
+    material: 'IRON_SWORD'
     title: '&5Пронзатель Гор'
     texture: 'gor_sword'
     lore:
