@@ -329,7 +329,7 @@ items:
   BALROG_BLOOD:
     material: 'CLAY_BALL'
     title: '&cДемоническая кровь'
-    texture: 'sample'
+    texture: 'blood'
     lore:
       - '&7Редкость: &cАртефакт'
       - ''
