@@ -431,7 +431,7 @@ items:
       - 'entity_protection:1.0:1:0'
   START_SWORD:
     material: 'STONE_SWORD'
-    title: '&Клинок Авантюриста'
+    title: '&fКлинок Авантюриста'
     texture: 'start'
     lore:
       - '&7Качество: &fОбычный предмет'
