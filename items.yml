@@ -215,42 +215,42 @@ items:
       - 'health:1.0:1.0'
   GOR_HELMET:
     material: 'IRON_HELMET'
-    title: '&9Наголовник Мглистой Горы'
+    title: '&5Наголовник Мглистой Горы'
     texture: 'gora'
     lore:
-      - '&7Качество: &9Редкий предмет'
+      - '&7Качество: &5Мифический предмет'
     attributes:
       - 'health:10.0:10.0'
   GOR_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
-    title: '&9Доспехи Мглистой Горы'
+    title: '&5Доспехи Мглистой Горы'
     texture: 'gora'
     lore:
-      - '&7Качество: &9Редкий предмет'
+      - '&7Качество: &5Мифический предмет'
     attributes:
       - 'health:10.0:10.0'
   GOR_LEGGINGS:
     material: 'IRON_LEGGINGS'
-    title: '&9Ножные доспехи Мглистой Горы'
+    title: '&5Ножные доспехи Мглистой Горы'
     texture: 'gora'
     lore:
-      - '&7Качество: &9Редкий предмет'
+      - '&7Качество: &5Мифический предмет'
     attributes:
       - 'health:10.0:10.0'
   GOR_BOOTS:
     material: 'IRON_BOOTS'
-    title: '&9Ботфорты Мглистой Горы'
+    title: '&5Ботфорты Мглистой Горы'
     texture: 'gora'
     lore:
-      - '&7Качество: &9Редкий предмет'
+      - '&7Качество: &5Мифический предмет'
     attributes:
       - 'health:10.0:10.0'
   GOR_SWORD:
     material: 'STONE_SWORD'
-    title: '&9Пронзатель Гор'
+    title: '&5Пронзатель Гор'
     texture: 'sample'
     lore:
-      - '&7Качество: &9Редкий Предмет'
+      - '&7Качество: &5Мифический предмет'
       - ''
       - ''
       - ''
@@ -260,34 +260,34 @@ items:
       - 'critical_damage_strength:1.0:1.0'
   BALROG_HELMET:
     material: 'IRON_HELMET'
-    title: '&5Демоническое Око Балрога'
+    title: '&6Демоническое Око Балрога'
     texture: 'sample'
     lore:
-      - '&7Качество: &5Мифический предмет'
+      - '&7Качество: &6Легендарный предмет'
     attributes:
       - 'health:10.0:10.0'
   BALROG_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
-    title: '&5Демонические Доспехи Балрога'
+    title: '&6Демонические Доспехи Балрога'
     texture: 'sample'
     lore:
-      - '&7Качество: &5Мифический предмет'
+      - '&7Качество: &6Легендарный предмет'
     attributes:
      - 'health:10.0:10.0'
   BALROG_LEGGINGS:
     material: 'IRON_LEGGINGS'
-    title: '&5Демонические Ножны Балрога'
+    title: '&6Демонические Ножны Балрога'
     texture: 'sample'
     lore:
-      - '&7Качество: &5Мифический предмет'
+      - '&7Качество: &6Легендарный предмет'
     attributes:
      - 'health:10.0:10.0'
   BALROG_BOOTS:
     material: 'IRON_BOOTS'
-    title: '&5Демонические Ботфорты Балрога'
+    title: '&6Демонические Ботфорты Балрога'
     texture: 'sample'
     lore:
-      - '&7Качество: &5Мифическое'
+      - '&7Качество: &6Легендарный предмет'
     attributes:
      - 'health:10.0:10.0'
   BALROG_SF:
