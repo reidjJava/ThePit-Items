@@ -392,7 +392,7 @@ items:
   START_HELMET:
     material: 'LEATHER_HELMET'
     title: '&fНаголовник Авантюриста'
-    texture: 'sample'
+    texture: 'start'
     lore:
       - '&7Качество: &fОбычный предмет'
     attributes:
@@ -402,7 +402,7 @@ items:
   START_CHESTPLATE:
     material: 'LEATHER_CHESTPLATE'
     title: '&fДоспех Авантюриста'
-    texture: 'sample'
+    texture: 'start'
     lore:
       - '&7Качество: &fОбычный предмет'
     attributes:
@@ -412,7 +412,7 @@ items:
   START_LEGGINGS:
     material: 'LEATHER_LEGGINGS'
     title: '&fНожные Латы Авантюриста'
-    texture: 'sample'
+    texture: 'start'
     lore:
       - '&7Качество: &fОбычный предмет'
     attributes:
@@ -422,7 +422,7 @@ items:
   START_BOOTS:
     material: 'LEATHER_BOOTS'
     title: '&fБотфорты Авантюриста'
-    texture: 'sample'
+    texture: 'start'
     lore:
       - '&7Качество: &fОбычный предмет'
     attributes:
@@ -430,9 +430,9 @@ items:
       - 'regeneration:1.0:1.0'
       - 'entity_protection:1.0:1:0'
   START_SWORD:
-    material: 'IRON_HELMET'
+    material: 'STONE_SWORD'
     title: '&Клинок Авантюриста'
-    texture: 'sample'
+    texture: 'start'
     lore:
       - '&7Качество: &fОбычный предмет'
     attributes:
