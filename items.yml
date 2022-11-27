@@ -248,7 +248,7 @@ items:
   GOR_SWORD:
     material: 'STONE_SWORD'
     title: '&5Пронзатель Гор'
-    texture: 'sample'
+    texture: 'gor_sword'
     lore:
       - '&7Качество: &5Мифический предмет'
       - ''
