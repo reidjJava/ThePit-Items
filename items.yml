@@ -261,7 +261,7 @@ items:
   BALROG_HELMET:
     material: 'IRON_HELMET'
     title: '&6Демоническое Око Балрога'
-    texture: 'sample'
+    texture: 'demon'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
@@ -269,7 +269,7 @@ items:
   BALROG_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&6Демонические Доспехи Балрога'
-    texture: 'sample'
+    texture: 'demon'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
@@ -277,7 +277,7 @@ items:
   BALROG_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&6Демонические Ножны Балрога'
-    texture: 'sample'
+    texture: 'demon'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
@@ -285,7 +285,7 @@ items:
   BALROG_BOOTS:
     material: 'IRON_BOOTS'
     title: '&6Демонические Ботфорты Балрога'
-    texture: 'sample'
+    texture: 'demon'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
