@@ -389,3 +389,53 @@ items:
       - '&7поспешно покинули Шахты, попутно уничтожив все выходы и'
       - '&7входы, но спустя время эти шахты заполонили Орки...'
     dungeon: mine
+  START_HELMET:
+    material: 'LEATHER_HELMET'
+    title: '&fНаголовник Авантюриста'
+    texture: 'sample'
+    lore:
+      - '&7Качество: &fОбычный предмет'
+    attributes:
+      - 'health:1.0:1.0'
+      - 'regeneration:1.0:1.0'
+      - 'entity_protection:1.0:1:0'
+  START_CHESTPLATE:
+    material: 'LEATHER_CHESTPLATE'
+    title: '&fДоспех Авантюриста'
+    texture: 'sample'
+    lore:
+      - '&7Качество: &fОбычный предмет'
+    attributes:
+      - 'health:1.0:1.0'
+      - 'regeneration:1.0:1.0'
+      - 'entity_protection:1.0:1:0'
+  START_LEGGINGS:
+    material: 'LEATHER_LEGGINGS'
+    title: '&fНожные Латы Авантюриста'
+    texture: 'sample'
+    lore:
+      - '&7Качество: &fОбычный предмет'
+    attributes:
+      - 'health:1.0:1.0'
+      - 'regeneration:1.0:1.0'
+      - 'entity_protection:1.0:1:0'
+  START_BOOTS:
+    material: 'LEATHER_BOOTS'
+    title: '&fБотфорты Авантюриста'
+    texture: 'sample'
+    lore:
+      - '&7Качество: &fОбычный предмет'
+    attributes:
+      - 'health:1.0:1.0'
+      - 'regeneration:1.0:1.0'
+      - 'entity_protection:1.0:1:0'
+  START_SWORD:
+    material: 'IRON_HELMET'
+    title: '&Клинок Авантюриста'
+    texture: 'sample'
+    lore:
+      - '&7Качество: &fОбычный предмет'
+    attributes:
+      - 'health:1.0:1.0'
+      - 'regeneration:1.0:1.0'
+      - 'entity_protection:1.0:1:0'
