@@ -397,9 +397,8 @@ items:
     lore:
       - '&7Качество: &fОбычный предмет'
     attributes:
-      - 'health:1.0:1.0'
-      - 'regeneration:1.0:1.0'
-      - 'entity_protection:1.0:1:0'
+      - 'health:2.0:2.0'
+      - 'regeneration:1.5:1.5'
   START_CHESTPLATE:
     material: 'LEATHER_CHESTPLATE'
     title: '&fДоспех Авантюриста'
@@ -407,9 +406,8 @@ items:
     lore:
       - '&7Качество: &fОбычный предмет'
     attributes:
-      - 'health:1.0:1.0'
-      - 'regeneration:1.0:1.0'
-      - 'entity_protection:1.0:1:0'
+      - 'health:3.0:3.0'
+      - 'regeneration:2.0:2.0'
   START_LEGGINGS:
     material: 'LEATHER_LEGGINGS'
     title: '&fНожные Латы Авантюриста'
@@ -417,9 +415,8 @@ items:
     lore:
       - '&7Качество: &fОбычный предмет'
     attributes:
-      - 'health:1.0:1.0'
-      - 'regeneration:1.0:1.0'
-      - 'entity_protection:1.0:1:0'
+      - 'health:2.0:2.0'
+      - 'regeneration:1.5:1.5'
   START_BOOTS:
     material: 'LEATHER_BOOTS'
     title: '&fБотфорты Авантюриста'
@@ -429,7 +426,6 @@ items:
     attributes:
       - 'health:1.0:1.0'
       - 'regeneration:1.0:1.0'
-      - 'entity_protection:1.0:1:0'
   START_SWORD:
     material: 'STONE_SWORD'
     title: '&fКлинок Авантюриста'
@@ -437,6 +433,4 @@ items:
     lore:
       - '&7Качество: &fОбычный предмет'
     attributes:
-      - 'health:1.0:1.0'
-      - 'regeneration:1.0:1.0'
-      - 'entity_protection:1.0:1:0'
+    - 'damage:1.0:1.0'
