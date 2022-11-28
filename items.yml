@@ -266,7 +266,8 @@ items:
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
-      - 'health:10.0:10.0'
+      - 'health:8.0:8.0'
+      - 'regeneration:6.5:6.5'
   BALROG_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&6Демонические Доспехи Балрога'
@@ -274,7 +275,8 @@ items:
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
-     - 'health:10.0:10.0'
+     - 'health:12.0:12.0'
+     - 'regeneration:9.0:9.0'
   BALROG_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&6Демонические Ножны Балрога'
@@ -283,6 +285,7 @@ items:
       - '&7Качество: &6Легендарный предмет'
     attributes:
      - 'health:10.0:10.0'
+     - 'regeneration:7.0:7.0'
   BALROG_BOOTS:
     material: 'IRON_BOOTS'
     title: '&6Демонические Ботфорты Балрога'
@@ -290,7 +293,8 @@ items:
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
-     - 'health:10.0:10.0'
+     - 'health:7.0:7.0'
+     - 'regeneration:5.0:5.0'
   BALROG_SF:
     material: 'CLAY_BALL'
     title: '&cСфера Хаоса'
