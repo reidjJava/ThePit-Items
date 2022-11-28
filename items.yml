@@ -76,9 +76,9 @@ items:
     lore:
       - '&7Качество: &9Редкий предмет'
     attributes:
-      - 'health:1.0:1.0'
-      - 'regeneration:1.0:1.0'
-      - 'entity_protection:1.0:1:0'
+      - 'health:4.0:4.0'
+      - 'regeneration:2.5:2.5'
+      - 'entity_protection:2.0:2:0'
   KNIGHT_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&9Доспехи Стража'
@@ -86,9 +86,9 @@ items:
     lore:
       - '&7Качество: &9Редкий предмет'
     attributes:
-      - 'health:1.0:1.0'
-      - 'regeneration:1.0:1.0'
-      - 'entity_protection:1.0:1:0'
+      - 'health:7.0:7.0'
+      - 'regeneration:4.0:4.0'
+      - 'entity_protection:5.0:5:0'
   KNIGHT_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&9Ножные латы Стража'
@@ -96,9 +96,9 @@ items:
     lore:
       - '&7Качество: &9Редкий предмет'
     attributes:
-      - 'health:1.0:1.0'
-      - 'regeneration:1.0:1.0'
-      - 'entity_protection:1.0:1:0'
+      - 'health:5.0:5.0'
+      - 'regeneration:3.0:3.0'
+      - 'entity_protection:3.0:3:0'
   KNIGHT_BOOTS:
     material: 'IRON_BOOTS'
     title: '&9Ботфорты Стража'
@@ -106,9 +106,9 @@ items:
     lore:
       - '&7Качество: &9Редкий предмет'
     attributes:
-      - 'health:1.0:1.0'
-      - 'regeneration:1.0:1.0'
-      - 'entity_protection:1.0:1:0'
+      - 'health:3.0:3.0'
+      - 'regeneration:2.0:2.0'
+      - 'entity_protection:1.5:1:5'
   KNIGHT_SWORD:
     material: 'IRON_SWORD'
     title: '&9Двуручный меч Стража'
@@ -119,9 +119,9 @@ items:
       - ''
       - ''
     attributes:
-      - 'damage:1.5:1.5'
-      - 'chance_critical_damage:1.2:1.2'
-      - 'critical_damage_strength:1.0:1.0'
+      - 'damage:6.0:6.0'
+      - 'chance_critical_damage:3.5:3.5'
+      - 'critical_damage_strength:4.0:4.0'
   RUBILO:
     material: 'STONE_SWORD'
     title: '&aКлинок Орков'
