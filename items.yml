@@ -433,4 +433,5 @@ items:
     lore:
       - '&7Качество: &fОбычный предмет'
     attributes:
-    - 'damage:1.0:1.0'
+    - 'damage:1.5:1.5'
+    - 'chance_critical_damage:1.0:1:0'
