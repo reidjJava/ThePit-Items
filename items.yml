@@ -439,3 +439,42 @@ items:
     attributes:
     - 'damage:1.5:1.5'
     - 'chance_critical_damage:1.0:1:0'
+  PIRAT_SWORD:
+    material: 'IRON_SWORD'
+    title: '&9Пиратская Сабля'
+    texture: 'sample'
+    lore:
+      - '&7Качество: &9Редкий Предмет'
+      - ''
+      - ''
+      - ''
+    attributes:
+      - 'damage:6.0:6.0'
+      - 'chance_critical_damage:3.5:3.5'
+      - 'critical_damage_strength:4.0:4.0'
+   RAPIRA_SWORD:
+    material: 'IRON_SWORD'
+    title: '&5Рапира Роджера'
+    texture: 'sample'
+    lore:
+      - '&7Качество: &5Мифический предмет'
+      - ''
+      - ''
+      - ''
+    attributes:
+      - 'damage:6.0:6.0'
+      - 'chance_critical_damage:3.5:3.5'
+      - 'critical_damage_strength:4.0:4.0'
+   POSEIDON_SWORD:
+    material: 'IRON_SWORD'
+    title: '&6Трезубец Посейдона'
+    texture: 'sample'
+    lore:
+      - '&7Качество: &6Легендарный предмет'
+      - ''
+      - ''
+      - ''
+    attributes:
+      - 'damage:6.0:6.0'
+      - 'chance_critical_damage:3.5:3.5'
+      - 'critical_damage_strength:4.0:4.0'
