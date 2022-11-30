@@ -467,7 +467,7 @@ items:
       - 'critical_damage_strength:4.0:4.0'
   POSEIDON_SWORD:
     material: 'IRON_SWORD'
-    title: '&6Трезубец Посейдона'
+    title: '&6Волнорез'
     texture: 'sample'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -478,3 +478,39 @@ items:
       - 'damage:6.0:6.0'
       - 'chance_critical_damage:3.5:3.5'
       - 'critical_damage_strength:4.0:4.0'
+  PIRATE_HELMET:
+    material: 'LEATHER_HELMET'
+    title: '&fНаголовник Пирата'
+    texture: 'start'
+    lore:
+      - '&7Качество: &fОбычный предмет'
+    attributes:
+      - 'health:2.0:2.0'
+      - 'regeneration:1.5:1.5'
+  START_CHESTPLATE:
+    material: 'LEATHER_CHESTPLATE'
+    title: '&fДоспех Пирата'
+    texture: 'start'
+    lore:
+      - '&7Качество: &fОбычный предмет'
+    attributes:
+      - 'health:3.0:3.0'
+      - 'regeneration:2.0:2.0'
+  START_LEGGINGS:
+    material: 'LEATHER_LEGGINGS'
+    title: '&fНожные Латы Пирата'
+    texture: 'start'
+    lore:
+      - '&7Качество: &fОбычный предмет'
+    attributes:
+      - 'health:2.0:2.0'
+      - 'regeneration:1.5:1.5'
+  START_BOOTS:
+    material: 'LEATHER_BOOTS'
+    title: '&fБотфорты Пирата'
+    texture: 'start'
+    lore:
+      - '&7Качество: &fОбычный предмет'
+    attributes:
+      - 'health:1.0:1.0'
+      - 'regeneration:1.0:1.0'
