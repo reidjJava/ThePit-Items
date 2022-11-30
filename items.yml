@@ -452,7 +452,7 @@ items:
       - 'damage:6.0:6.0'
       - 'chance_critical_damage:3.5:3.5'
       - 'critical_damage_strength:4.0:4.0'
-   RAPIRA_SWORD:
+  RAPIRA_SWORD:
     material: 'IRON_SWORD'
     title: '&5Рапира Роджера'
     texture: 'sample'
@@ -465,7 +465,7 @@ items:
       - 'damage:6.0:6.0'
       - 'chance_critical_damage:3.5:3.5'
       - 'critical_damage_strength:4.0:4.0'
-   POSEIDON_SWORD:
+  POSEIDON_SWORD:
     material: 'IRON_SWORD'
     title: '&6Трезубец Посейдона'
     texture: 'sample'
