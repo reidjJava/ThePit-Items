@@ -601,7 +601,7 @@ items:
   KNIGHT3_HELMET:
     material: 'IRON_HELMET'
     title: '&6Наголовник Азшары'
-    texture: 'demon'
+    texture: 'azhara'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
@@ -610,7 +610,7 @@ items:
   KNIGHT2_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&6Доспехи Азшары'
-    texture: 'demon'
+    texture: 'azhara'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
@@ -619,7 +619,7 @@ items:
   KNIGHT2_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&6Ножны Азшары'
-    texture: 'demon'
+    texture: 'azhara'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
@@ -628,7 +628,7 @@ items:
   KNIGHT2_BOOTS:
     material: 'IRON_BOOTS'
     title: '&6Ботфорты Азшары'
-    texture: 'demon'
+    texture: 'azhara'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
