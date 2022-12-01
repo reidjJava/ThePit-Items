@@ -331,7 +331,7 @@ items:
       - ''
       - '&7Можно обменять, либо же продать.'
       - '&7в "&cОбители".'
-   BAG_SF:
+  BAG_SF:
     material: 'CLAY_BALL'
     title: '&6Мешок древних монет'
     texture: 'zoloto'
