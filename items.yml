@@ -565,7 +565,7 @@ items:
   KNIGHT2_HELMET:
     material: 'IRON_HELMET'
     title: '&6Наголовник Рыцаря Смерти'
-    texture: 'demon'
+    texture: 'knight_dead'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
@@ -574,7 +574,7 @@ items:
   KNIGHT2_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&6Доспехи Рыцаря Смерти'
-    texture: 'demon'
+    texture: 'knight_dead'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
@@ -582,8 +582,8 @@ items:
      - 'regeneration:9.0:9.0'
   KNIGHT2_LEGGINGS:
     material: 'IRON_LEGGINGS'
-    title: '&6Ножны Рыцаря Смерти'
-    texture: 'demon'
+    title: '&6Ножные Латы Рыцаря Смерти'
+    texture: 'knight_dead'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
@@ -592,7 +592,7 @@ items:
   KNIGHT2_BOOTS:
     material: 'IRON_BOOTS'
     title: '&6Ботфорты Рыцаря Смерти'
-    texture: 'demon'
+    texture: 'knight_dead'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
@@ -618,7 +618,7 @@ items:
      - 'regeneration:9.0:9.0'
   AZHARA_LEGGINGS:
     material: 'IRON_LEGGINGS'
-    title: '&6Ножны Азшары'
+    title: '&6Ножны Латы Азшары'
     texture: 'azhara'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -637,5 +637,5 @@ items:
   RUNE:
     material: 'CLAY_BALL'
     title: '&9Руна Возвращения'
-    texture: 'sample'
+    texture: 'runa'
     lore:
