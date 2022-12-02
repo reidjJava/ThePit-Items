@@ -638,5 +638,3 @@ items:
     material: 'CLAY_BALL'
     title: '&9Руна Возвращения'
     texture: 'runa'
-    lore:
-      - ''
