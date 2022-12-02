@@ -197,7 +197,7 @@ items:
     lore:
       - '&7Качество: &aНеобычный предмет'
     attributes:
-      - 'health:1.0:1.0' 
+      - 'health:1.0:1.0'
   ORK_LEGGINGS:
     material: 'CHAINMAIL_LEGGINGS'
     title: '&aНожный доспех Орка'
@@ -275,8 +275,8 @@ items:
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
-     - 'health:12.0:12.0'
-     - 'regeneration:9.0:9.0'
+      - 'health:12.0:12.0'
+      - 'regeneration:9.0:9.0'
   BALROG_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&6Демонические Ножны Балрога'
@@ -284,8 +284,8 @@ items:
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
-     - 'health:10.0:10.0'
-     - 'regeneration:7.0:7.0'
+      - 'health:10.0:10.0'
+      - 'regeneration:7.0:7.0'
   BALROG_BOOTS:
     material: 'IRON_BOOTS'
     title: '&6Демонические Ботфорты Балрога'
@@ -293,8 +293,8 @@ items:
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
-     - 'health:7.0:7.0'
-     - 'regeneration:5.0:5.0'
+      - 'health:7.0:7.0'
+      - 'regeneration:5.0:5.0'
   BALROG_SF:
     material: 'CLAY_BALL'
     title: '&cСфера Хаоса'
@@ -414,7 +414,7 @@ items:
       - '&7Встречается в самых глубоких недрах Земли.'
       - ''
       - '&7Можно обменять, либо же продать'
-      - '&7в "&cОбители".'  
+      - '&7в "&cОбители".'
   TITAN:
     material: 'CLAY_BALL'
     title: '&6Титан'
@@ -426,7 +426,7 @@ items:
       - '&7Встречается в самых глубоких недрах Земли.'
       - ''
       - '&7Можно обменять, либо же продать'
-      - '&7в "&cОбители&7".'  
+      - '&7в "&cОбители&7".'
   FORGOTTEN_MINES:
     material: 'CLAY_BALL'
     title: '&5Карта для прохода в подземелье "Забытые шахты"'
@@ -485,8 +485,8 @@ items:
     lore:
       - '&7Качество: &fОбычный предмет'
     attributes:
-    - 'damage:1.5:1.5'
-    - 'chance_critical_damage:1.0:1:0'
+      - 'damage:1.5:1.5'
+      - 'chance_critical_damage:1.0:1:0'
   PIRAT_SWORD:
     material: 'IRON_SWORD'
     title: '&9Пиратская Сабля'
@@ -578,8 +578,8 @@ items:
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
-     - 'health:12.0:12.0'
-     - 'regeneration:9.0:9.0'
+      - 'health:12.0:12.0'
+      - 'regeneration:9.0:9.0'
   KNIGHT2_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&6Ножные Латы Рыцаря Смерти'
@@ -587,8 +587,8 @@ items:
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
-     - 'health:10.0:10.0'
-     - 'regeneration:7.0:7.0'
+      - 'health:10.0:10.0'
+      - 'regeneration:7.0:7.0'
   KNIGHT2_BOOTS:
     material: 'IRON_BOOTS'
     title: '&6Ботфорты Рыцаря Смерти'
@@ -596,8 +596,8 @@ items:
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
-     - 'health:7.0:7.0'
-     - 'regeneration:5.0:5.0'
+      - 'health:7.0:7.0'
+      - 'regeneration:5.0:5.0'
   AZHARA_HELMET:
     material: 'IRON_HELMET'
     title: '&6Маска Азшары'
@@ -614,8 +614,8 @@ items:
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
-     - 'health:12.0:12.0'
-     - 'regeneration:9.0:9.0'
+      - 'health:12.0:12.0'
+      - 'regeneration:9.0:9.0'
   AZHARA_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&6Ножны Латы Азшары'
@@ -623,8 +623,8 @@ items:
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
-     - 'health:10.0:10.0'
-     - 'regeneration:7.0:7.0'
+      - 'health:10.0:10.0'
+      - 'regeneration:7.0:7.0'
   AZHARA_BOOTS:
     material: 'IRON_BOOTS'
     title: '&6Ботфорты Азшары'
@@ -632,10 +632,11 @@ items:
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
-     - 'health:7.0:7.0'
-     - 'regeneration:5.0:5.0'
+      - 'health:7.0:7.0'
+      - 'regeneration:5.0:5.0'
   RUNE:
     material: 'CLAY_BALL'
     title: '&9Руна Возвращения'
     texture: 'runa'
     lore:
+      - ''
