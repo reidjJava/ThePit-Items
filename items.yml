@@ -562,7 +562,7 @@ items:
     attributes:
       - 'health:1.0:1.0'
       - 'regeneration:1.0:1.0'
-  KNIGHT2_HELMET:
+   DEAD_HELMET:
     material: 'IRON_HELMET'
     title: '&6Наголовник Рыцаря Смерти'
     texture: 'dead'
@@ -571,7 +571,7 @@ items:
     attributes:
       - 'health:8.0:8.0'
       - 'regeneration:6.5:6.5'
-  KNIGHT2_CHESTPLATE:
+  DEAD_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&6Доспехи Рыцаря Смерти'
     texture: 'dead'
@@ -580,7 +580,7 @@ items:
     attributes:
       - 'health:12.0:12.0'
       - 'regeneration:9.0:9.0'
-  KNIGHT2_LEGGINGS:
+  DEAD_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&6Ножные Латы Рыцаря Смерти'
     texture: 'dead'
@@ -589,7 +589,7 @@ items:
     attributes:
       - 'health:10.0:10.0'
       - 'regeneration:7.0:7.0'
-  KNIGHT2_BOOTS:
+  DEAD_BOOTS:
     material: 'IRON_BOOTS'
     title: '&6Ботфорты Рыцаря Смерти'
     texture: 'dead'
@@ -643,4 +643,3 @@ items:
     attributes:
       - 'health:7.0:7.0'
       - 'regeneration:5.0:5.0'
-     
