@@ -600,7 +600,7 @@ items:
      - 'regeneration:5.0:5.0'
   AZHARA_HELMET:
     material: 'IRON_HELMET'
-    title: '&6Проклятый Наголовник Азшары'
+    title: '&6Маска Азшары'
     texture: 'azhara'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -609,7 +609,7 @@ items:
       - 'regeneration:6.5:6.5'
   AZHARA_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
-    title: '&6Проклятые Доспехи Азшары'
+    title: '&6Кираса Азшары'
     texture: 'azhara'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -618,7 +618,7 @@ items:
      - 'regeneration:9.0:9.0'
   AZHARA_LEGGINGS:
     material: 'IRON_LEGGINGS'
-    title: '&6Проклятые Ножны Азшары'
+    title: '&6Ножны Азшары'
     texture: 'azhara'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -627,7 +627,7 @@ items:
      - 'regeneration:7.0:7.0'
   AZHARA_BOOTS:
     material: 'IRON_BOOTS'
-    title: '&6Проклятые Ботфорты Азшары'
+    title: '&6Ботфорты Азшары'
     texture: 'azhara'
     lore:
       - '&7Качество: &6Легендарный предмет'
