@@ -562,7 +562,7 @@ items:
     attributes:
       - 'health:1.0:1.0'
       - 'regeneration:1.0:1.0'
-   DEAD_HELMET:
+  DEAD_HELMET:
     material: 'IRON_HELMET'
     title: '&6Наголовник Рыцаря Смерти'
     texture: 'dead'
