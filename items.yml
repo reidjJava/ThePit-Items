@@ -565,7 +565,7 @@ items:
   KNIGHT2_HELMET:
     material: 'IRON_HELMET'
     title: '&6Наголовник Рыцаря Смерти'
-    texture: 'knight_dead'
+    texture: 'knight2'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
@@ -574,7 +574,7 @@ items:
   KNIGHT2_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&6Доспехи Рыцаря Смерти'
-    texture: 'knight_dead'
+    texture: 'knight2'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
@@ -583,7 +583,7 @@ items:
   KNIGHT2_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&6Ножные Латы Рыцаря Смерти'
-    texture: 'knight_dead'
+    texture: 'knight2'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
@@ -592,7 +592,7 @@ items:
   KNIGHT2_BOOTS:
     material: 'IRON_BOOTS'
     title: '&6Ботфорты Рыцаря Смерти'
-    texture: 'knight_dead'
+    texture: 'knight2'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
