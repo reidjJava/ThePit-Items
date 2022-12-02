@@ -634,7 +634,3 @@ items:
     attributes:
       - 'health:7.0:7.0'
       - 'regeneration:5.0:5.0'
-  RUNE:
-    material: 'CLAY_BALL'
-    title: '&9Руна Возвращения'
-    texture: 'runa'
