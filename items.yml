@@ -718,7 +718,7 @@ items:
   LAVA_MOLOT:
     material: 'IRON_SWORD'
     title: '&6Опалённый Молот Правосудия'
-    texture: 'sample'
+    texture: 'lava3'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
