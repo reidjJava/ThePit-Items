@@ -880,7 +880,7 @@ items:
   MASTER_HELMET:
     material: 'IRON_HELMET'
     title: '&6 мастер'
-    texture: 'maste'
+    texture: 'master'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
