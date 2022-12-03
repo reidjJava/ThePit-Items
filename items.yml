@@ -763,7 +763,7 @@ items:
   ANAR_SWORD:
     material: 'IRON_SWORD'
     title: '&6Клинок Искусителя Нежити'
-    texture: 'w5'
+    texture: 'anar2'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
