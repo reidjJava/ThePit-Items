@@ -646,7 +646,7 @@ items:
   AVATAR_HELMET:
     material: 'IRON_HELMET'
     title: '&6Наголовник Храмовника '
-    texture: 'sample'
+    texture: 'xram'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
@@ -655,7 +655,7 @@ items:
   AVATAR_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&6Доспех Храмовника'
-    texture: 'sample'
+    texture: 'xram'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
@@ -664,7 +664,7 @@ items:
   AVATAR_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&6Набедренники Храмовника'
-    texture: 'sample'
+    texture: 'xram'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
@@ -673,7 +673,7 @@ items:
   AVATAR_BOOTS:
     material: 'IRON_BOOTS'
     title: '&6Ботфорты Храмовника'
-    texture: 'dead'
+    texture: 'xram'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
