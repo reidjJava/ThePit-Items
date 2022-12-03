@@ -672,7 +672,7 @@ items:
       - 'regeneration:5.0:5.0'
   LAVA_HELMET:
     material: 'IRON_HELMET'
-    title: '&6Наголовник '
+    title: '&6Опалённый Наголовник Валярьяров '
     texture: 'lava2'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -681,7 +681,7 @@ items:
       - 'regeneration:6.5:6.5'
   LAVA_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
-    title: '&6Доспех'
+    title: '&6Опалённый Доспех Валярьяров'
     texture: 'lava2'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -690,7 +690,7 @@ items:
       - 'regeneration:9.0:9.0'
   LAVA_LEGGINGS:
     material: 'IRON_LEGGINGS'
-    title: '&6Набедренники'
+    title: '&6Опалённые Набедренники Валярьяров'
     texture: 'lava2'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -699,7 +699,7 @@ items:
       - 'regeneration:7.0:7.0'
   LAVA_BOOTS:
     material: 'IRON_BOOTS'
-    title: '&6Ботфорты'
+    title: '&6Опалённые Ботфорты Валярьяров'
     texture: 'lava2'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -717,7 +717,7 @@ items:
       - 'regeneration:5.0:5.0'
   LAVA_SWORD:
     material: 'IRON_SWORD'
-    title: '&6Испепелитель Нежити'
+    title: '&6Опалённый Кинжал Преисподни'
     texture: 'lava'
     lore:
       - '&7Качество: &6Легендарный предмет'
