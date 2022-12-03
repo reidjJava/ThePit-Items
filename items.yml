@@ -760,3 +760,12 @@ items:
     attributes:
       - 'health:7.0:7.0'
       - 'regeneration:5.0:5.0'
+  ANAR_SWORD:
+    material: 'IRON_SWORD'
+    title: '&6Клинок Искусителя Нежити'
+    texture: 'w5'
+    lore:
+      - '&7Качество: &6Легендарный предмет'
+    attributes:
+      - 'health:7.0:7.0'
+      - 'regeneration:5.0:5.0'
