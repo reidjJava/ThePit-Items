@@ -726,7 +726,7 @@ items:
       - 'regeneration:5.0:5.0'
   ANAR_HELMET:
     material: 'IRON_HELMET'
-    title: '&6Наголовник Проклятого Анархиста '
+    title: '&6Колпак Проклятого Анархиста '
     texture: 'anar'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -735,7 +735,7 @@ items:
       - 'regeneration:6.5:6.5'
   ANAR_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
-    title: '&6Плащ Проклятого Анархиста'
+    title: '&6Мантия Проклятого Анархиста'
     texture: 'anar'
     lore:
       - '&7Качество: &6Легендарный предмет'
