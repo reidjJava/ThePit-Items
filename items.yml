@@ -562,42 +562,6 @@ items:
     attributes:
       - 'health:1.0:1.0'
       - 'regeneration:1.0:1.0'
-  DEAD_HELMET:
-    material: 'IRON_HELMET'
-    title: '&6Наголовник Рыцаря Смерти'
-    texture: 'dead'
-    lore:
-      - '&7Качество: &6Легендарный предмет'
-    attributes:
-      - 'health:8.0:8.0'
-      - 'regeneration:6.5:6.5'
-  DEAD_CHESTPLATE:
-    material: 'IRON_CHESTPLATE'
-    title: '&6Доспехи Рыцаря Смерти'
-    texture: 'dead'
-    lore:
-      - '&7Качество: &6Легендарный предмет'
-    attributes:
-      - 'health:12.0:12.0'
-      - 'regeneration:9.0:9.0'
-  DEAD_LEGGINGS:
-    material: 'IRON_LEGGINGS'
-    title: '&6Ножные Латы Рыцаря Смерти'
-    texture: 'dead'
-    lore:
-      - '&7Качество: &6Легендарный предмет'
-    attributes:
-      - 'health:10.0:10.0'
-      - 'regeneration:7.0:7.0'
-  DEAD_BOOTS:
-    material: 'IRON_BOOTS'
-    title: '&6Ботфорты Рыцаря Смерти'
-    texture: 'dead'
-    lore:
-      - '&7Качество: &6Легендарный предмет'
-    attributes:
-      - 'health:7.0:7.0'
-      - 'regeneration:5.0:5.0'
   AZHARA_HELMET:
     material: 'IRON_HELMET'
     title: '&6Маска Азшары'
@@ -638,6 +602,42 @@ items:
     material: 'IRON_SWORD'
     title: '&6Опаленный меч'
     texture: 'lava'
+    lore:
+      - '&7Качество: &6Легендарный предмет'
+    attributes:
+      - 'health:7.0:7.0'
+      - 'regeneration:5.0:5.0'
+  DEAD_HELMET:
+    material: 'IRON_HELMET'
+    title: '&6Наголовник Рыцаря Смерти'
+    texture: 'dead'
+    lore:
+      - '&7Качество: &6Легендарный предмет'
+    attributes:
+      - 'health:8.0:8.0'
+      - 'regeneration:6.5:6.5'
+  DEAD_CHESTPLATE:
+    material: 'IRON_CHESTPLATE'
+    title: '&6Доспехи Рыцаря Смерти'
+    texture: 'dead'
+    lore:
+      - '&7Качество: &6Легендарный предмет'
+    attributes:
+      - 'health:12.0:12.0'
+      - 'regeneration:9.0:9.0'
+  DEAD_LEGGINGS:
+    material: 'IRON_LEGGINGS'
+    title: '&6Ножные Латы Рыцаря Смерти'
+    texture: 'dead'
+    lore:
+      - '&7Качество: &6Легендарный предмет'
+    attributes:
+      - 'health:10.0:10.0'
+      - 'regeneration:7.0:7.0'
+  DEAD_BOOTS:
+    material: 'IRON_BOOTS'
+    title: '&6Ботфорты Рыцаря Смерти'
+    texture: 'dead'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
