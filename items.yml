@@ -609,7 +609,7 @@ items:
       - 'regeneration:5.0:5.0'
   DEAD_HELMET:
     material: 'IRON_HELMET'
-    title: '&6Наголовник Рыцаря Смерти'
+    title: '&6Наголовник Возмездия'
     texture: 'dead'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -618,7 +618,7 @@ items:
       - 'regeneration:6.5:6.5'
   DEAD_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
-    title: '&6Доспехи Рыцаря Смерти'
+    title: '&6Доспех Возмездия'
     texture: 'dead'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -627,7 +627,7 @@ items:
       - 'regeneration:9.0:9.0'
   DEAD_LEGGINGS:
     material: 'IRON_LEGGINGS'
-    title: '&6Ножные Латы Рыцаря Смерти'
+    title: '&6Ножные Латы Возмездия'
     texture: 'dead'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -636,7 +636,7 @@ items:
       - 'regeneration:7.0:7.0'
   DEAD_BOOTS:
     material: 'IRON_BOOTS'
-    title: '&6Ботфорты Рыцаря Смерти'
+    title: '&6Ботфорты Возмездия'
     texture: 'dead'
     lore:
       - '&7Качество: &6Легендарный предмет'
