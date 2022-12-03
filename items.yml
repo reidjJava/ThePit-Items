@@ -841,3 +841,39 @@ items:
     attributes:
       - 'health:7.0:7.0'
       - 'regeneration:5.0:5.0'
+  PLATINUM_HELMET:
+    material: 'IRON_HELMET'
+    title: '&6 платка'
+    texture: 'platinum'
+    lore:
+      - '&7Качество: &6Легендарный предмет'
+    attributes:
+      - 'health:8.0:8.0'
+      - 'regeneration:6.5:6.5'
+  PLATINUM_CHESTPLATE:
+    material: 'IRON_CHESTPLATE'
+    title: '&6 Платка'
+    texture: 'platinum'
+    lore:
+      - '&7Качество: &6Легендарный предмет'
+    attributes:
+      - 'health:12.0:12.0'
+      - 'regeneration:9.0:9.0'
+  PLATINUM_LEGGINGS:
+    material: 'IRON_LEGGINGS'
+    title: '&6 Платка'
+    texture: 'platinum'
+    lore:
+      - '&7Качество: &6Легендарный предмет'
+    attributes:
+      - 'health:10.0:10.0'
+      - 'regeneration:7.0:7.0'
+  PLATINUM_BOOTS:
+    material: 'IRON_BOOTS'
+    title: '&6 ПЛАТКА'
+    texture: 'platinum'
+    lore:
+      - '&7Качество: &6Легендарный предмет'
+    attributes:
+      - 'health:7.0:7.0'
+      - 'regeneration:5.0:5.0'
