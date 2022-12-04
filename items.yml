@@ -951,7 +951,7 @@ items:
       - 'regeneration:5.0:5.0'
   MASTER_HELMET:
     material: 'IRON_HELMET'
-    title: '&сНаголовник Пылающего Архангела'
+    title: '&cНаголовник Пылающего Архангела'
     texture: 'master'
     lore:
       - '&7Качество: &cАртефактный предмет'
@@ -960,7 +960,7 @@ items:
       - 'regeneration:6.5:6.5'
   MASTER_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
-    title: '&сДоспех Пылающего Архангела'
+    title: '&cДоспех Пылающего Архангела'
     texture: 'master'
     lore:
       - '&7Качество: &cАртефактный предмет'
@@ -969,7 +969,7 @@ items:
       - 'regeneration:9.0:9.0'
   MASTER_LEGGINGS:
     material: 'IRON_LEGGINGS'
-    title: '&сНожные Латы Пылающего Архангела'
+    title: '&cНожные Латы Пылающего Архангела'
     texture: 'master'
     lore:
       - '&7Качество: &cАртефактный предмет'
@@ -978,7 +978,7 @@ items:
       - 'regeneration:7.0:7.0'
   MASTER_BOOTS:
     material: 'IRON_BOOTS'
-    title: '&сБотфорты Пылающего Архангела'
+    title: '&cБотфорты Пылающего Архангела'
     texture: 'master'
     lore:
       - '&7Качество: &cАртефактный предмет'
