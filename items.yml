@@ -754,43 +754,43 @@ items:
       - 'regeneration:5.0:5.0'
   BRONZA_HELMET:
     material: 'IRON_HELMET'
-    title: '&6 мастер'
+    title: '&6Наголовник Багрового Гладиатора'
     texture: 'bronza'
     lore:
-      - '&7Качество: &6Легендарный предмет'
+      - '&7Качество: &aНеобычный предмет'
     attributes:
       - 'health:8.0:8.0'
       - 'regeneration:6.5:6.5'
   BRONZA_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
-    title: '&6 мастер'
+    title: '&aДоспех Багрового Гладиатора'
     texture: 'bronza'
     lore:
-      - '&7Качество: &6Легендарный предмет'
+      - '&7Качество: &aНеобычный предмет'
     attributes:
       - 'health:12.0:12.0'
       - 'regeneration:9.0:9.0'
   BRONZA_LEGGINGS:
     material: 'IRON_LEGGINGS'
-    title: '&6 мастер'
+    title: '&aНабедренники Багрового Гладиатора'
     texture: 'bronza'
     lore:
-      - '&7Качество: &6Легендарный предмет'
+      - '&7Качество: &aНеобычный предмет'
     attributes:
       - 'health:10.0:10.0'
       - 'regeneration:7.0:7.0'
   BRONZA_BOOTS:
     material: 'IRON_BOOTS'
-    title: '&6 мастер'
+    title: '&aБотфорты Багрового Гладиатора'
     texture: 'bronza'
     lore:
-      - '&7Качество: &6Легендарный предмет'
+      - '&7Качество: &aНеобычный предмет'
     attributes:
       - 'health:7.0:7.0'
       - 'regeneration:5.0:5.0'
   KNIGHT_HELMET:
     material: 'IRON_HELMET'
-    title: '&9Наголовник Стража'
+    title: '&9Наголовник Стража Ассамблеи'
     texture: 'knight'
     lore:
       - '&7Качество: &9Редкий предмет'
@@ -800,7 +800,7 @@ items:
       - 'entity_protection:2.0:2:0'
   KNIGHT_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
-    title: '&9Доспехи Стража'
+    title: '&9Доспех Стража Ассамблеи'
     texture: 'knight'
     lore:
       - '&7Качество: &9Редкий предмет'
@@ -810,7 +810,7 @@ items:
       - 'entity_protection:5.0:5:0'
   KNIGHT_LEGGINGS:
     material: 'IRON_LEGGINGS'
-    title: '&9Ножные латы Стража'
+    title: '&9Ножные латы Стража Ассамблеи'
     texture: 'knight'
     lore:
       - '&7Качество: &9Редкий предмет'
@@ -820,7 +820,7 @@ items:
       - 'entity_protection:3.0:3:0'
   KNIGHT_BOOTS:
     material: 'IRON_BOOTS'
-    title: '&9Ботфорты Стража'
+    title: '&9Ботфорты Стража Ассамблеи'
     texture: 'knight'
     lore:
       - '&7Качество: &9Редкий предмет'
