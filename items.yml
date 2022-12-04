@@ -843,43 +843,43 @@ items:
       - 'critical_damage_strength:4.0:4.0'
   GOLD_HELMET:
     material: 'IRON_HELMET'
-    title: '&63 РАНГ'
+    title: '&5Наголовник Святого Рыцаря'
     texture: 'zol'
     lore:
-      - '&7Качество: &6Легендарный предмет'
+      - '&7Качество: &5Эпический предмет'
     attributes:
       - 'health:8.0:8.0'
       - 'regeneration:6.5:6.5'
   GOLD_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
-    title: '&6 3 РАНГ'
+    title: '&5Доспех Святого Рыцаря'
     texture: 'zol'
     lore:
-      - '&7Качество: &6Легендарный предмет'
+      - '&7Качество: &5Эпический предмет'
     attributes:
       - 'health:12.0:12.0'
       - 'regeneration:9.0:9.0'
   GOLD_LEGGINGS:
     material: 'IRON_LEGGINGS'
-    title: '&6 ГОЛД РАНГ'
+    title: '&5Ножные Латы Святого Рыцаря'
     texture: 'zol'
     lore:
-      - '&7Качество: &6Легендарный предмет'
+      - '&7Качество: &6Эпический предмет'
     attributes:
       - 'health:10.0:10.0'
       - 'regeneration:7.0:7.0'
   GOLD_BOOTS:
     material: 'IRON_BOOTS'
-    title: '&6 голд'
+    title: '&5Ботфорты Святого Рыцаря'
     texture: 'zol'
     lore:
-      - '&7Качество: &6Легендарный предмет'
+      - '&7Качество: &5Эпический предмет'
     attributes:
       - 'health:7.0:7.0'
       - 'regeneration:5.0:5.0'
   PLATINUM_HELMET:
     material: 'IRON_HELMET'
-    title: '&6 платка'
+    title: '&6Наголовник Ледяного Стража'
     texture: 'platinum'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -888,34 +888,34 @@ items:
       - 'regeneration:6.5:6.5'
   PLATINUM_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
-    title: '&6 Платка'
+    title: '&dДоспех Ледяного Стража'
     texture: 'platinum'
     lore:
-      - '&7Качество: &6Легендарный предмет'
+      - '&7Качество: &dМифический предмет'
     attributes:
       - 'health:12.0:12.0'
       - 'regeneration:9.0:9.0'
   PLATINUM_LEGGINGS:
     material: 'IRON_LEGGINGS'
-    title: '&6 Платка'
+    title: '&dНожные Латы Ледяного Стража'
     texture: 'platinum'
     lore:
-      - '&7Качество: &6Легендарный предмет'
+      - '&7Качество: &dМифический предмет'
     attributes:
       - 'health:10.0:10.0'
       - 'regeneration:7.0:7.0'
   PLATINUM_BOOTS:
     material: 'IRON_BOOTS'
-    title: '&6 ПЛАТКА'
+    title: '&dБотфорты Ледяного Стража'
     texture: 'platinum'
     lore:
-      - '&7Качество: &6Легендарный предмет'
+      - '&7Качество: &dМифический предмет'
     attributes:
       - 'health:7.0:7.0'
       - 'regeneration:5.0:5.0'
   DIAMOND_HELMET:
     material: 'IRON_HELMET'
-    title: '&6 мастер'
+    title: '&6Наголовник Чародейской Бури'
     texture: 'diamond'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -924,7 +924,7 @@ items:
       - 'regeneration:6.5:6.5'
   DIAMOND_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
-    title: '&6 мастер'
+    title: '&6Доспех Чародейской Бури'
     texture: 'diamond'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -933,7 +933,7 @@ items:
       - 'regeneration:9.0:9.0'
   DIAMOND_LEGGINGS:
     material: 'IRON_LEGGINGS'
-    title: '&6 мастер'
+    title: '&6Ножные Латы Чародейской Бури'
     texture: 'diamond'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -942,7 +942,7 @@ items:
       - 'regeneration:7.0:7.0'
   DIAMOND_BOOTS:
     material: 'IRON_BOOTS'
-    title: '&6 мастер'
+    title: '&6Ботфорты Чародейской Бури'
     texture: 'diamond'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -951,37 +951,37 @@ items:
       - 'regeneration:5.0:5.0'
   MASTER_HELMET:
     material: 'IRON_HELMET'
-    title: '&6 мастер'
+    title: '&6Наголовник Пылающего Черепа'
     texture: 'master'
     lore:
-      - '&7Качество: &6Легендарный предмет'
+      - '&7Качество: &cАртефактный предмет'
     attributes:
       - 'health:8.0:8.0'
       - 'regeneration:6.5:6.5'
   MASTER_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
-    title: '&6 мастер'
+    title: '&6Доспех Пылающего Черепа'
     texture: 'master'
     lore:
-      - '&7Качество: &6Легендарный предмет'
+      - '&7Качество: &cАртефактный предмет'
     attributes:
       - 'health:12.0:12.0'
       - 'regeneration:9.0:9.0'
   MASTER_LEGGINGS:
     material: 'IRON_LEGGINGS'
-    title: '&6 мастер'
+    title: '&6Ножные Латы Пылающего Черепа'
     texture: 'master'
     lore:
-      - '&7Качество: &6Легендарный предмет'
+      - '&7Качество: &cАртефактный предмет'
     attributes:
       - 'health:10.0:10.0'
       - 'regeneration:7.0:7.0'
   MASTER_BOOTS:
     material: 'IRON_BOOTS'
-    title: '&6 мастер'
+    title: '&6Ботфорты Пылающего Черепа'
     texture: 'master'
     lore:
-      - '&7Качество: &6Легендарный предмет'
+      - '&7Качество: &cАртефактный предмет'
     attributes:
       - 'health:7.0:7.0'
       - 'regeneration:5.0:5.0'
