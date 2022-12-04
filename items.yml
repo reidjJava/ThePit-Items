@@ -879,10 +879,10 @@ items:
       - 'regeneration:5.0:5.0'
   PLATINUM_HELMET:
     material: 'IRON_HELMET'
-    title: '&6Наголовник Ледяного Стража'
+    title: '&dНаголовник Ледяного Стража'
     texture: 'platinum'
     lore:
-      - '&7Качество: &6Легендарный предмет'
+      - '&7Качество: &dМифический предмет'
     attributes:
       - 'health:8.0:8.0'
       - 'regeneration:6.5:6.5'
@@ -951,7 +951,7 @@ items:
       - 'regeneration:5.0:5.0'
   MASTER_HELMET:
     material: 'IRON_HELMET'
-    title: '&6Наголовник Пылающего Черепа'
+    title: '&сНаголовник Пылающего Архангела'
     texture: 'master'
     lore:
       - '&7Качество: &cАртефактный предмет'
@@ -960,7 +960,7 @@ items:
       - 'regeneration:6.5:6.5'
   MASTER_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
-    title: '&6Доспех Пылающего Черепа'
+    title: '&сДоспех Пылающего Архангела'
     texture: 'master'
     lore:
       - '&7Качество: &cАртефактный предмет'
@@ -969,7 +969,7 @@ items:
       - 'regeneration:9.0:9.0'
   MASTER_LEGGINGS:
     material: 'IRON_LEGGINGS'
-    title: '&6Ножные Латы Пылающего Черепа'
+    title: '&сНожные Латы Пылающего Архангела'
     texture: 'master'
     lore:
       - '&7Качество: &cАртефактный предмет'
@@ -978,7 +978,7 @@ items:
       - 'regeneration:7.0:7.0'
   MASTER_BOOTS:
     material: 'IRON_BOOTS'
-    title: '&6Ботфорты Пылающего Черепа'
+    title: '&сБотфорты Пылающего Архангела'
     texture: 'master'
     lore:
       - '&7Качество: &cАртефактный предмет'
