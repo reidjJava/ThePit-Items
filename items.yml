@@ -985,3 +985,16 @@ items:
     attributes:
       - 'health:7.0:7.0'
       - 'regeneration:5.0:5.0'
+  MASTER_SWORD:
+    material: 'DIAMOND_SWORD'
+    title: '&cКлинок Пылающего Архангела'
+    texture: 'master'
+    lore:
+      - '&7Качество: &cАртефактный предмет'
+      - ''
+      - ''
+      - ''
+    attributes:
+      - 'damage:6.0:6.0'
+      - 'chance_critical_damage:3.5:3.5'
+      - 'critical_damage_strength:4.0:4.0'
