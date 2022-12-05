@@ -919,9 +919,6 @@ items:
     texture: 'platinum'
     lore:
       - '&7Качество: &dМифический предмет'
-      - ''
-      - ''
-      - ''
     attributes:
       - 'damage:25.0:25.0'
       - 'chance_critical_damage:10.5:10.5'
@@ -1005,9 +1002,6 @@ items:
     texture: 'master'
     lore:
       - '&7Качество: &cАртефактный предмет'
-      - ''
-      - ''
-      - ''
     attributes:
       - 'damage:25.0:25.0'
       - 'chance_critical_damage:10.5:10.5'
