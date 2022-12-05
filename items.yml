@@ -913,6 +913,20 @@ items:
     attributes:
       - 'health:7.0:7.0'
       - 'regeneration:5.0:5.0'
+  PLATINUM_SWORD:
+    material: 'IRON_SWORD'
+    title: '&dКлинок Ледяной Скорби'
+    texture: 'platinum'
+    lore:
+      - '&7Качество: &dМифический предмет'
+      - ''
+      - ''
+      - ''
+    attributes:
+      - 'damage:25.0:25.0'
+      - 'chance_critical_damage:10.5:10.5'
+      - 'critical_damage_strength:9.0:9.0'
+      - 'vampirism:8.5:8.5'
   DIAMOND_HELMET:
     material: 'IRON_HELMET'
     title: '&6Наголовник Чародейской Бури'
