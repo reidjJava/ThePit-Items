@@ -718,25 +718,25 @@ items:
       - 'regeneration:5.0:5.0'
   AMAH_HELMET:
     material: 'IRON_HELMET'
-    title: '&6Колпак'
+    title: '&65аголовник Оскверненного Покрова'
     texture: 'amah'
     lore:
-      - '&7Качество: &6Легендарный предмет'
+      - '&7Качество: &5Эпический предмет'
     attributes:
       - 'health:8.0:8.0'
       - 'regeneration:6.5:6.5'
   AMAH_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
-    title: '&6Мантия'
+    title: '&5Доспех Оскверненного Покрова'
     texture: 'amah'
     lore:
-      - '&7Качество: &6Легендарный предмет'
+      - '&7Качество: &5Эпический предмет'
     attributes:
       - 'health:12.0:12.0'
       - 'regeneration:9.0:9.0'
   AMAH_LEGGINGS:
     material: 'IRON_LEGGINGS'
-    title: '&6Набедренники'
+    title: '&6Ножные Латы Оскверненого Покрова'
     texture: 'amah'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -745,7 +745,7 @@ items:
       - 'regeneration:7.0:7.0'
   AMAH_BOOTS:
     material: 'IRON_BOOTS'
-    title: '&6Ботфорты'
+    title: '&6Ботфорты Оскверненного Покрова'
     texture: 'amah'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -830,7 +830,7 @@ items:
       - 'entity_protection:1.5:1.5'
   KNIGHT_SWORD:
     material: 'IRON_SWORD'
-    title: '&9Двуручный меч Стража'
+    title: '&9Двуручный меч Стража Ассамблеи'
     texture: 'knight_sword'
     lore:
       - '&7Качество: &9Редкий Предмет'
@@ -864,7 +864,7 @@ items:
     title: '&5Ножные Латы Святого Рыцаря'
     texture: 'zol'
     lore:
-      - '&7Качество: &6Эпический предмет'
+      - '&7Качество: &5Эпический предмет'
     attributes:
       - 'health:10.0:10.0'
       - 'regeneration:7.0:7.0'
@@ -879,7 +879,7 @@ items:
       - 'regeneration:5.0:5.0'
   PLATINUM_HELMET:
     material: 'IRON_HELMET'
-    title: '&dНаголовник Ледяного Стража'
+    title: '&dНаголовник Ледяного Повелителя'
     texture: 'platinum'
     lore:
       - '&7Качество: &dМифический предмет'
@@ -888,7 +888,7 @@ items:
       - 'regeneration:6.5:6.5'
   PLATINUM_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
-    title: '&dДоспех Ледяного Стража'
+    title: '&dДоспех Ледяного Повелителя'
     texture: 'platinum'
     lore:
       - '&7Качество: &dМифический предмет'
@@ -897,7 +897,7 @@ items:
       - 'regeneration:9.0:9.0'
   PLATINUM_LEGGINGS:
     material: 'IRON_LEGGINGS'
-    title: '&dНожные Латы Ледяного Стража'
+    title: '&dНожные Латы Ледяного Повелителя'
     texture: 'platinum'
     lore:
       - '&7Качество: &dМифический предмет'
@@ -906,7 +906,7 @@ items:
       - 'regeneration:7.0:7.0'
   PLATINUM_BOOTS:
     material: 'IRON_BOOTS'
-    title: '&dБотфорты Ледяного Стража'
+    title: '&dБотфорты Ледяного Повелителя'
     texture: 'platinum'
     lore:
       - '&7Качество: &dМифический предмет'
