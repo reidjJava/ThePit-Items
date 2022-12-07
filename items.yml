@@ -969,7 +969,7 @@ items:
     attributes:
       - 'health:12.0:12.0'
       - 'regeneration:9.5:9.5'
-      - 'entity_protection:12.5:12:5
+      - 'entity_protection:12.5:12:5'
  MASTER_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&cДоспех Пылающего Архангела'
@@ -979,7 +979,7 @@ items:
     attributes:
       - 'health:20.0:20.0'
       - 'regeneration:12.0:12.0'
-      - 'entity_protection:15.5:15:5
+      - 'entity_protection:15.5:15:5'
   MASTER_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&cНожные Латы Пылающего Архангела'
@@ -989,7 +989,7 @@ items:
     attributes:
       - 'health:15.0:15.0'
       - 'regeneration:10.0:10.0'
-      - 'entity_protection:12.5:12:5
+      - 'entity_protection:12.5:12:5'
   MASTER_BOOTS:
     material: 'IRON_BOOTS'
     title: '&cБотфорты Пылающего Архангела'
