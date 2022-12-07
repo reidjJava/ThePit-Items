@@ -464,9 +464,6 @@ items:
     texture: 'sample'
     lore:
       - '&7Качество: &9Редкий Предмет'
-      - ''
-      - ''
-      - ''
     attributes:
       - 'damage:6.0:6.0'
       - 'chance_critical_damage:3.5:3.5'
@@ -477,9 +474,6 @@ items:
     texture: 'sample'
     lore:
       - '&7Качество: &5Мифический предмет'
-      - ''
-      - ''
-      - ''
     attributes:
       - 'damage:6.0:6.0'
       - 'chance_critical_damage:3.5:3.5'
@@ -490,9 +484,6 @@ items:
     texture: 'sample'
     lore:
       - '&7Качество: &6Легендарный предмет'
-      - ''
-      - ''
-      - ''
     attributes:
       - 'damage:6.0:6.0'
       - 'chance_critical_damage:3.5:3.5'
@@ -894,9 +885,6 @@ items:
     texture: 'knight_sword'
     lore:
       - '&7Качество: &9Редкий Предмет'
-      - ''
-      - ''
-      - ''
     attributes:
       - 'damage:6.0:6.0'
       - 'chance_critical_damage:3.5:3.5'
