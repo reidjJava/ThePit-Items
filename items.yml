@@ -1082,7 +1082,7 @@ items:
   RUN_HELMET:
     material: 'IRON_HELMET'
     title: '&6Колпак Рунического Тотема'
-    texture: 'master'
+    texture: 'totem'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
