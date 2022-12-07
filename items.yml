@@ -967,7 +967,7 @@ items:
     lore:
       - '&7Качество: &cАртефактный предмет'
     attributes:
-      - 'health:15.0:12.0'
+      - 'health:15.0:15.0'
       - 'regeneration:9.5:9.5'
       - 'entity_protection:12.5:12.5'
   MASTER_CHESTPLATE:
@@ -987,7 +987,7 @@ items:
     lore:
       - '&7Качество: &cАртефактный предмет'
     attributes:
-      - 'health:18.0:15.0'
+      - 'health:18.0:18.0'
       - 'regeneration:10.0:10.0'
       - 'entity_protection:12.5:12.5'
   MASTER_BOOTS:
@@ -997,7 +997,7 @@ items:
     lore:
       - '&7Качество: &cАртефактный предмет'
     attributes:
-      - 'health:12.0:10.0'
+      - 'health:12.0:12.0'
       - 'regeneration:8.0:8.0'
       - 'entity_protection:10.5:10.5'
       - 'move_speed:20.5:20.5'
