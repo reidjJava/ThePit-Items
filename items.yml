@@ -1125,7 +1125,7 @@ items:
       - 'move_speed:20.5:20.5'
     sharpeningLevel: 0
   RUN_SWORD:
-    material: 'DIAMOND_SWORD'
+    material: 'IRON_SWORD'
     title: '&dКопьё Рунического Тотема'
     texture: 'totem'
     lore:
@@ -1137,7 +1137,7 @@ items:
       - 'vampirism:8.5:8.5'
     sharpeningLevel: 0
   RUN_KIN:
-    material: 'DIAMOND_SWORD'
+    material: 'IRON_SWORD'
     title: '&5Кинжал Рунического Тотема'
     texture: 'totem'
     lore:
