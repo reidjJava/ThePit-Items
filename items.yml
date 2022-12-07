@@ -1012,3 +1012,4 @@ items:
         - 'chance_critical_damage:10.5:10.5'
         - 'critical_damage_strength:9.0:9.0'
         - 'vampirism:8.5:8.5'
+        sharpeningLevel: 0
