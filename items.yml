@@ -524,7 +524,7 @@ items:
     attributes:
       - 'health:1.0:1.0'
       - 'regeneration:1.0:1.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   AZHARA_HELMET:
     material: 'IRON_HELMET'
     title: '&6Маска Азшары'
@@ -534,7 +534,7 @@ items:
     attributes:
       - 'health:8.0:8.0'
       - 'regeneration:6.5:6.5'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   AZHARA_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&6Кираса Азшары'
@@ -544,7 +544,7 @@ items:
     attributes:
       - 'health:12.0:12.0'
       - 'regeneration:9.0:9.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   AZHARA_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&6Ножны Латы Азшары'
@@ -554,7 +554,7 @@ items:
     attributes:
       - 'health:10.0:10.0'
       - 'regeneration:7.0:7.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   AZHARA_BOOTS:
     material: 'IRON_BOOTS'
     title: '&6Ботфорты Азшары'
@@ -564,7 +564,7 @@ items:
     attributes:
       - 'health:7.0:7.0'
       - 'regeneration:5.0:5.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   DEAD_HELMET:
     material: 'IRON_HELMET'
     title: '&6Наголовник Возмездия'
@@ -574,7 +574,7 @@ items:
     attributes:
       - 'health:8.0:8.0'
       - 'regeneration:6.5:6.5'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   DEAD_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&6Доспех Возмездия'
@@ -584,7 +584,7 @@ items:
     attributes:
       - 'health:12.0:12.0'
       - 'regeneration:9.0:9.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   DEAD_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&6Ножные Латы Возмездия'
@@ -594,7 +594,7 @@ items:
     attributes:
       - 'health:10.0:10.0'
       - 'regeneration:7.0:7.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   DEAD_BOOTS:
     material: 'IRON_BOOTS'
     title: '&6Ботфорты Возмездия'
@@ -604,7 +604,7 @@ items:
     attributes:
       - 'health:7.0:7.0'
       - 'regeneration:5.0:5.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   AVATAR_HELMET:
     material: 'IRON_HELMET'
     title: '&6Наголовник Храмовника '
@@ -614,7 +614,7 @@ items:
     attributes:
       - 'health:8.0:8.0'
       - 'regeneration:6.5:6.5'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   AVATAR_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&6Доспех Храмовника'
@@ -624,7 +624,7 @@ items:
     attributes:
       - 'health:12.0:12.0'
       - 'regeneration:9.0:9.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   AVATAR_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&6Набедренники Храмовника'
@@ -634,7 +634,7 @@ items:
     attributes:
       - 'health:10.0:10.0'
       - 'regeneration:7.0:7.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   AVATAR_BOOTS:
     material: 'IRON_BOOTS'
     title: '&6Ботфорты Храмовника'
@@ -644,7 +644,7 @@ items:
     attributes:
       - 'health:7.0:7.0'
       - 'regeneration:5.0:5.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   LAVA_HELMET:
     material: 'IRON_HELMET'
     title: '&6Опалённый Наголовник Валярьяров '
@@ -654,7 +654,7 @@ items:
     attributes:
       - 'health:8.0:8.0'
       - 'regeneration:6.5:6.5'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   LAVA_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&6Опалённый Доспех Валярьяров'
@@ -664,7 +664,7 @@ items:
     attributes:
       - 'health:12.0:12.0'
       - 'regeneration:9.0:9.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   LAVA_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&6Опалённые Набедренники Валярьяров'
@@ -674,7 +674,7 @@ items:
     attributes:
       - 'health:10.0:10.0'
       - 'regeneration:7.0:7.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   LAVA_BOOTS:
     material: 'IRON_BOOTS'
     title: '&6Опалённые Ботфорты Валярьяров'
@@ -684,7 +684,7 @@ items:
     attributes:
       - 'health:7.0:7.0'
       - 'regeneration:5.0:5.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   LAVA_MOLOT:
     material: 'IRON_SWORD'
     title: '&6Опалённый Молот Правосудия'
@@ -694,7 +694,7 @@ items:
     attributes:
       - 'health:7.0:7.0'
       - 'regeneration:5.0:5.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   LAVA_SWORD:
     material: 'IRON_SWORD'
     title: '&6Опалённый Кинжал Преисподни'
@@ -704,7 +704,7 @@ items:
     attributes:
       - 'health:7.0:7.0'
       - 'regeneration:5.0:5.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   ANAR_HELMET:
     material: 'IRON_HELMET'
     title: '&6Колпак Проклятого Анархиста '
@@ -714,7 +714,7 @@ items:
     attributes:
       - 'health:8.0:8.0'
       - 'regeneration:6.5:6.5'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   ANAR_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&6Мантия Проклятого Анархиста'
@@ -724,7 +724,7 @@ items:
     attributes:
       - 'health:12.0:12.0'
       - 'regeneration:9.0:9.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   ANAR_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&6Набедренники Проклятого Анархиста'
@@ -734,7 +734,7 @@ items:
     attributes:
       - 'health:10.0:10.0'
       - 'regeneration:7.0:7.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   ANAR_BOOTS:
     material: 'IRON_BOOTS'
     title: '&6Сапоги Проклятого Анархиста'
@@ -744,7 +744,7 @@ items:
     attributes:
       - 'health:7.0:7.0'
       - 'regeneration:5.0:5.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   ANAR_SWORD:
     material: 'IRON_SWORD'
     title: '&6Клинок Искусителя Нежити'
@@ -754,7 +754,7 @@ items:
     attributes:
       - 'health:7.0:7.0'
       - 'regeneration:5.0:5.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   AMAH_HELMET:
     material: 'IRON_HELMET'
     title: '&65аголовник Оскверненного Покрова'
@@ -764,7 +764,7 @@ items:
     attributes:
       - 'health:8.0:8.0'
       - 'regeneration:6.5:6.5'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   AMAH_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&5Доспех Оскверненного Покрова'
@@ -774,7 +774,7 @@ items:
     attributes:
       - 'health:12.0:12.0'
       - 'regeneration:9.0:9.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   AMAH_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&6Ножные Латы Оскверненого Покрова'
@@ -784,7 +784,7 @@ items:
     attributes:
       - 'health:10.0:10.0'
       - 'regeneration:7.0:7.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   AMAH_BOOTS:
     material: 'IRON_BOOTS'
     title: '&6Ботфорты Оскверненного Покрова'
@@ -794,7 +794,7 @@ items:
     attributes:
       - 'health:7.0:7.0'
       - 'regeneration:5.0:5.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   BRONZA_HELMET:
     material: 'IRON_HELMET'
     title: '&6Наголовник Багрового Гладиатора'
@@ -804,7 +804,7 @@ items:
     attributes:
       - 'health:8.0:8.0'
       - 'regeneration:6.5:6.5'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   BRONZA_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&aДоспех Багрового Гладиатора'
@@ -814,7 +814,7 @@ items:
     attributes:
       - 'health:12.0:12.0'
       - 'regeneration:9.0:9.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   BRONZA_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&aНабедренники Багрового Гладиатора'
@@ -824,7 +824,7 @@ items:
     attributes:
       - 'health:10.0:10.0'
       - 'regeneration:7.0:7.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   BRONZA_BOOTS:
     material: 'IRON_BOOTS'
     title: '&aБотфорты Багрового Гладиатора'
@@ -834,7 +834,7 @@ items:
     attributes:
       - 'health:7.0:7.0'
       - 'regeneration:5.0:5.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   KNIGHT_HELMET:
     material: 'IRON_HELMET'
     title: '&9Наголовник Стража Ассамблеи'
@@ -845,7 +845,7 @@ items:
       - 'health:4.0:4.0'
       - 'regeneration:2.5:2.5'
       - 'entity_protection:2.0:2:0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   KNIGHT_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&9Доспех Стража Ассамблеи'
@@ -856,7 +856,7 @@ items:
       - 'health:7.0:7.0'
       - 'regeneration:4.0:4.0'
       - 'entity_protection:5.0:5:0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   KNIGHT_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&9Ножные латы Стража Ассамблеи'
@@ -867,7 +867,7 @@ items:
       - 'health:5.0:5.0'
       - 'regeneration:3.0:3.0'
       - 'entity_protection:3.0:3:0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   KNIGHT_BOOTS:
     material: 'IRON_BOOTS'
     title: '&9Ботфорты Стража Ассамблеи'
@@ -878,7 +878,7 @@ items:
       - 'health:3.0:3.0'
       - 'regeneration:2.0:2.0'
       - 'entity_protection:1.5:1.5'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   KNIGHT_SWORD:
     material: 'IRON_SWORD'
     title: '&9Двуручный меч Стража Ассамблеи'
@@ -889,7 +889,7 @@ items:
       - 'damage:6.0:6.0'
       - 'chance_critical_damage:3.5:3.5'
       - 'critical_damage_strength:4.0:4.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   GOLD_HELMET:
     material: 'IRON_HELMET'
     title: '&5Наголовник Святого Рыцаря'
@@ -899,7 +899,7 @@ items:
     attributes:
       - 'health:8.0:8.0'
       - 'regeneration:6.5:6.5'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   GOLD_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&5Доспех Святого Рыцаря'
@@ -909,7 +909,7 @@ items:
     attributes:
       - 'health:12.0:12.0'
       - 'regeneration:9.0:9.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   GOLD_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&5Ножные Латы Святого Рыцаря'
@@ -919,7 +919,7 @@ items:
     attributes:
       - 'health:10.0:10.0'
       - 'regeneration:7.0:7.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   GOLD_BOOTS:
     material: 'IRON_BOOTS'
     title: '&5Ботфорты Святого Рыцаря'
@@ -929,7 +929,7 @@ items:
     attributes:
       - 'health:7.0:7.0'
       - 'regeneration:5.0:5.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   PLATINUM_HELMET:
     material: 'IRON_HELMET'
     title: '&dНаголовник Ледяного Повелителя'
@@ -939,8 +939,8 @@ items:
     attributes:
       - 'health:8.0:8.0'
       - 'regeneration:6.5:6.5'
-      sharpeningLevel: 0
- PLATINUM_CHESTPLATE:
+    sharpeningLevel: 0
+  PLATINUM_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&dДоспех Ледяного Повелителя'
     texture: 'platinum'
@@ -949,7 +949,7 @@ items:
     attributes:
       - 'health:12.0:12.0'
       - 'regeneration:9.0:9.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   PLATINUM_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&dНожные Латы Ледяного Повелителя'
@@ -959,7 +959,7 @@ items:
     attributes:
       - 'health:10.0:10.0'
       - 'regeneration:7.0:7.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   PLATINUM_BOOTS:
     material: 'IRON_BOOTS'
     title: '&dБотфорты Ледяного Повелителя'
@@ -969,7 +969,7 @@ items:
     attributes:
       - 'health:7.0:7.0'
       - 'regeneration:5.0:5.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   PLATINUM_SWORD:
     material: 'IRON_SWORD'
     title: '&dКлинок Ледяной Скорби'
@@ -981,7 +981,7 @@ items:
       - 'chance_critical_damage:10.5:10.5'
       - 'critical_damage_strength:9.0:9.0'
       - 'vampirism:8.5:8.5'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   DIAMOND_HELMET:
     material: 'IRON_HELMET'
     title: '&6Наголовник Чародейской Бури'
@@ -991,7 +991,7 @@ items:
     attributes:
       - 'health:8.0:8.0'
       - 'regeneration:6.5:6.5'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   DIAMOND_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&6Доспех Чародейской Бури'
@@ -1001,7 +1001,7 @@ items:
     attributes:
       - 'health:12.0:12.0'
       - 'regeneration:9.0:9.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   DIAMOND_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&6Ножные Латы Чародейской Бури'
@@ -1011,7 +1011,7 @@ items:
     attributes:
       - 'health:10.0:10.0'
       - 'regeneration:7.0:7.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   DIAMOND_BOOTS:
     material: 'IRON_BOOTS'
     title: '&6Ботфорты Чародейской Бури'
@@ -1021,7 +1021,7 @@ items:
     attributes:
       - 'health:7.0:7.0'
       - 'regeneration:5.0:5.0'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   MASTER_HELMET:
     material: 'IRON_HELMET'
     title: '&cНаголовник Пылающего Архангела'
@@ -1032,7 +1032,7 @@ items:
       - 'health:15.0:15.0'
       - 'regeneration:9.5:9.5'
       - 'entity_protection:12.5:12.5'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   MASTER_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&cДоспех Пылающего Архангела'
@@ -1043,7 +1043,7 @@ items:
       - 'health:20.0:20.0'
       - 'regeneration:12.0:12.0'
       - 'entity_protection:15.5:15.5'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   MASTER_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&cНожные Латы Пылающего Архангела'
@@ -1054,7 +1054,7 @@ items:
       - 'health:18.0:18.0'
       - 'regeneration:10.0:10.0'
       - 'entity_protection:12.5:12.5'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   MASTER_BOOTS:
     material: 'IRON_BOOTS'
     title: '&cБотфорты Пылающего Архангела'
@@ -1066,7 +1066,7 @@ items:
       - 'regeneration:8.0:8.0'
       - 'entity_protection:10.5:10.5'
       - 'move_speed:20.5:20.5'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   MASTER_SWORD:
     material: 'DIAMOND_SWORD'
     title: '&cКлинок Пылающего Архангела'
@@ -1089,7 +1089,7 @@ items:
       - 'health:15.0:15.0'
       - 'regeneration:9.5:9.5'
       - 'entity_protection:12.5:12.5'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   RUN_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&6Укрепленная Мантия Рунического Тотема'
@@ -1100,7 +1100,7 @@ items:
       - 'health:20.0:20.0'
       - 'regeneration:12.0:12.0'
       - 'entity_protection:15.5:15.5'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   RUN_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&6Укрепленные Набедренники Рунического Тотема'
@@ -1111,7 +1111,7 @@ items:
       - 'health:18.0:18.0'
       - 'regeneration:10.0:10.0'
       - 'entity_protection:12.5:12.5'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
   RUN_BOOTS:
     material: 'IRON_BOOTS'
     title: '&6Ботфорты Рунического Тотема'
@@ -1123,4 +1123,4 @@ items:
       - 'regeneration:8.0:8.0'
       - 'entity_protection:10.5:10.5'
       - 'move_speed:20.5:20.5'
-      sharpeningLevel: 0
+    sharpeningLevel: 0
