@@ -980,36 +980,36 @@ items:
       - 'health:20.0:20.0'
       - 'regeneration:12.0:12.0'
       - 'entity_protection:15.5:15.5'
-    MASTER_LEGGINGS:
-      material: 'IRON_LEGGINGS'
-      title: '&cНожные Латы Пылающего Архангела'
-      texture: 'master'
-      lore:
-        - '&7Качество: &cАртефактный предмет'
-      attributes:
-        - 'health:15.0:15.0'
-        - 'regeneration:10.0:10.0'
-        - 'entity_protection:12.5:12.5'
-    MASTER_BOOTS:
-      material: 'IRON_BOOTS'
-      title: '&cБотфорты Пылающего Архангела'
-      texture: 'master'
-      lore:
-        - '&7Качество: &cАртефактный предмет'
-      attributes:
-        - 'health:10.0:10.0'
-        - 'regeneration:8.0:8.0'
-        - 'entity_protection:10.5:10.5'
-        - 'move_speed:3.5:3.5'
-    MASTER_SWORD:
-      material: 'DIAMOND_SWORD'
-      title: '&cКлинок Пылающего Архангела'
-      texture: 'master'
-      lore:
-        - '&7Качество: &cАртефактный предмет'
-      attributes:
-        - 'damage:25.0:25.0'
-        - 'chance_critical_damage:10.5:10.5'
-        - 'critical_damage_strength:9.0:9.0'
-        - 'vampirism:8.5:8.5'
-        sharpeningLevel: 0
+  MASTER_LEGGINGS:
+    material: 'IRON_LEGGINGS'
+    title: '&cНожные Латы Пылающего Архангела'
+    texture: 'master'
+    lore:
+      - '&7Качество: &cАртефактный предмет'
+    attributes:
+      - 'health:15.0:15.0'
+      - 'regeneration:10.0:10.0'
+      - 'entity_protection:12.5:12.5'
+  MASTER_BOOTS:
+    material: 'IRON_BOOTS'
+    title: '&cБотфорты Пылающего Архангела'
+    texture: 'master'
+    lore:
+      - '&7Качество: &cАртефактный предмет'
+    attributes:
+      - 'health:10.0:10.0'
+      - 'regeneration:8.0:8.0'
+      - 'entity_protection:10.5:10.5'
+      - 'move_speed:3.5:3.5'
+  MASTER_SWORD:
+    material: 'DIAMOND_SWORD'
+    title: '&cКлинок Пылающего Архангела'
+    texture: 'master'
+    lore:
+      - '&7Качество: &cАртефактный предмет'
+    attributes:
+      - 'damage:25.0:25.0'
+      - 'chance_critical_damage:10.5:10.5'
+      - 'critical_damage_strength:9.0:9.0'
+      - 'vampirism:8.5:8.5'
+    sharpeningLevel: 0
