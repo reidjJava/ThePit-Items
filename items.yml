@@ -338,10 +338,10 @@ items:
       - ''
       - '&7Можно обменять либо же продать.'
       - '&7в "&cОбители".'
-  RUBIN:
+  RUNIT:
     material: 'CLAY_BALL'
     title: '&Рунитовая Руда'
-    texture: 'sample'
+    texture: 'runit'
     lore:
       - '&7Редкость: &aНеобычный предмет'
       - ''
