@@ -1093,10 +1093,10 @@ items:
     sharpeningLevel: 0
   RUN_HELMET:
     material: 'IRON_HELMET'
-    title: '&cНаголовник Пылающего Архангела'
+    title: '&6Колпак Рунического Тотема'
     texture: 'master'
     lore:
-      - '&7Качество: &cАртефактный предмет'
+      - '&7Качество: &6Легендарный предмет'
     attributes:
       - 'health:15.0:15.0'
       - 'regeneration:9.5:9.5'
@@ -1104,10 +1104,10 @@ items:
       sharpeningLevel: 0
   RUN_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
-    title: '&cДоспех Пылающего Архангела'
-    texture: 'master'
+    title: '&6Укрепленная Мантия Рунического Тотема'
+    texture: 'totem'
     lore:
-      - '&7Качество: &cАртефактный предмет'
+      - '&7Качество: &6Легендарный предмет'
     attributes:
       - 'health:20.0:20.0'
       - 'regeneration:12.0:12.0'
@@ -1115,10 +1115,10 @@ items:
       sharpeningLevel: 0
  RUN_LEGGINGS:
     material: 'IRON_LEGGINGS'
-    title: '&cНожные Латы Пылающего Архангела'
-    texture: 'master'
+    title: '&6Укрепленные Набедренники Рунического Тотема'
+    texture: 'totem'
     lore:
-      - '&7Качество: &cАртефактный предмет'
+      - '&7Качество: &6Легендарный предмет'
     attributes:
       - 'health:18.0:18.0'
       - 'regeneration:10.0:10.0'
@@ -1126,10 +1126,10 @@ items:
       sharpeningLevel: 0
   RUN_BOOTS:
     material: 'IRON_BOOTS'
-    title: '&cБотфорты Пылающего Архангела'
-    texture: 'master'
+    title: '&6Ботфорты Рунического Тотема'
+    texture: 'totem'
     lore:
-      - '&7Качество: &cАртефактный предмет'
+      - '&7Качество: &6Легендарный предмет'
     attributes:
       - 'health:12.0:12.0'
       - 'regeneration:8.0:8.0'
