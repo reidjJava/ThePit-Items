@@ -967,17 +967,19 @@ items:
     lore:
       - '&7Качество: &cАртефактный предмет'
     attributes:
-      - 'health:8.0:8.0'
-      - 'regeneration:6.5:6.5'
-  MASTER_CHESTPLATE:
+      - 'health:12.0:12.0'
+      - 'regeneration:9.5:9.5'
+      - 'entity_protection:12.5:12:5
+ MASTER_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&cДоспех Пылающего Архангела'
     texture: 'master'
     lore:
       - '&7Качество: &cАртефактный предмет'
     attributes:
-      - 'health:12.0:12.0'
-      - 'regeneration:9.0:9.0'
+      - 'health:20.0:20.0'
+      - 'regeneration:12.0:12.0'
+      - 'entity_protection:15.5:15:5
   MASTER_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&cНожные Латы Пылающего Архангела'
@@ -985,8 +987,9 @@ items:
     lore:
       - '&7Качество: &cАртефактный предмет'
     attributes:
-      - 'health:10.0:10.0'
-      - 'regeneration:7.0:7.0'
+      - 'health:15.0:15.0'
+      - 'regeneration:10.0:10.0'
+      - 'entity_protection:12.5:12:5
   MASTER_BOOTS:
     material: 'IRON_BOOTS'
     title: '&cБотфорты Пылающего Архангела'
@@ -994,8 +997,9 @@ items:
     lore:
       - '&7Качество: &cАртефактный предмет'
     attributes:
-      - 'health:7.0:7.0'
-      - 'regeneration:5.0:5.0'
+      - 'health:10.0:10.0'
+      - 'regeneration:8.0:8.0'
+      - 'entity_protection:10.5:10:5'
   MASTER_SWORD:
     material: 'DIAMOND_SWORD'
     title: '&cКлинок Пылающего Архангела'
