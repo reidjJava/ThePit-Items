@@ -1000,6 +1000,7 @@ items:
       - 'health:10.0:10.0'
       - 'regeneration:8.0:8.0'
       - 'entity_protection:10.5:10:5'
+      - 'move_speed:3.5:3.5'
   MASTER_SWORD:
     material: 'DIAMOND_SWORD'
     title: '&cКлинок Пылающего Архангела'
