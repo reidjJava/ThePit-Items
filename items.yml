@@ -1148,3 +1148,27 @@ items:
       - 'critical_damage_strength:9.0:9.0'
       - 'vampirism:8.5:8.5'
     sharpeningLevel: 0
+  RUN_TOPOR:
+    material: 'IRON_SWORD'
+    title: '&6Топор Кровавой Луны'
+    texture: 'moon'
+    lore:
+      - '&7Качество: &6Легендарный предмет'
+    attributes:
+      - 'damage:25.0:25.0'
+      - 'chance_critical_damage:10.5:10.5'
+      - 'critical_damage_strength:9.0:9.0'
+      - 'vampirism:8.5:8.5'
+    sharpeningLevel: 0
+  DEAD_MOLOT:
+    material: 'IRON_SWORD'
+    title: '&5Боевой Молот Возмездия'
+    texture: 'molot'
+    lore:
+      - '&7Качество: &5Эпический предмет'
+    attributes:
+      - 'damage:25.0:25.0'
+      - 'chance_critical_damage:10.5:10.5'
+      - 'critical_damage_strength:9.0:9.0'
+      - 'vampirism:8.5:8.5'
+    sharpeningLevel: 0
