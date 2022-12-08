@@ -1208,3 +1208,15 @@ items:
       - 'critical_damage_strength:9.0:9.0'
       - 'vampirism:8.5:8.5'
     sharpeningLevel: 0
+  FLAMING_SWORD:
+    material: 'IRON_SWORD'
+    title: '&6Данные Неизвестны'
+    texture: 'flame'
+    lore:
+      - '&7Качество: &6Легендарный предмет'
+    attributes:
+      - 'damage:25.0:25.0'
+      - 'chance_critical_damage:10.5:10.5'
+      - 'critical_damage_strength:9.0:9.0'
+      - 'vampirism:8.5:8.5'
+    sharpeningLevel: 0
