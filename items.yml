@@ -1175,7 +1175,7 @@ items:
   DONATE_TOPOR:
     material: 'IRON_SWORD'
     title: '&6Данные Неизвестны'
-    texture: 'sample'
+    texture: 'xolod'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
