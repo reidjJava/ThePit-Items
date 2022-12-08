@@ -67,7 +67,7 @@ items:
       - '&7Шанс успешной заточки &c100%&7.'
       - ''
       - '&7Можно купить в Магазине.'
-    sharpening_chance: 0.0
+    sharpening_chance: 100.0
     sharpening_price: 4000.0
   RUBILO:
     material: 'STONE_SWORD'
