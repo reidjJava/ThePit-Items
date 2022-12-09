@@ -1334,3 +1334,48 @@ items:
       - 'entity_protection:10.5:10.5'
       - 'move_speed:20.5:20.5'
     sharpeningLevel: 0
+  LICH_HELMET:
+    material: 'IRON_HELMET'
+    title: '&6Колпак Авалонских Путей'
+    texture: 'lich'
+    lore:
+      - '&7Качество: &6Легендарный предмет'
+    attributes:
+      - 'health:15.0:15.0'
+      - 'regeneration:9.5:9.5'
+      - 'entity_protection:12.5:12.5'
+    sharpeningLevel: 0
+  LICH_CHESTPLATE:
+    material: 'IRON_CHESTPLATE'
+    title: '&6Мантия Авалонских Путей'
+    texture: 'lich'
+    lore:
+      - '&7Качество: &6Легендарный предмет'
+    attributes:
+      - 'health:20.0:20.0'
+      - 'regeneration:12.0:12.0'
+      - 'entity_protection:15.5:15.5'
+    sharpeningLevel: 0
+  LICH_LEGGINGS:
+    material: 'IRON_LEGGINGS'
+    title: '&6Набедренники Авалонских Путей'
+    texture: 'lich'
+    lore:
+      - '&7Качество: &6Легендарный предмет'
+    attributes:
+      - 'health:18.0:18.0'
+      - 'regeneration:10.0:10.0'
+      - 'entity_protection:12.5:12.5'
+    sharpeningLevel: 0
+  LICH_BOOTS:
+    material: 'IRON_BOOTS'
+    title: '&6Сапоги Авалонских Путей'
+    texture: 'lich'
+    lore:
+      - '&7Качество: &6Легендарный предмет'
+    attributes:
+      - 'health:12.0:12.0'
+      - 'regeneration:8.0:8.0'
+      - 'entity_protection:10.5:10.5'
+      - 'move_speed:20.5:20.5'
+    sharpeningLevel: 0
