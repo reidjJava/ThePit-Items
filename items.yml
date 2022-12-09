@@ -1292,7 +1292,7 @@ items:
   AVALON_HELMET:
     material: 'IRON_HELMET'
     title: '&6Колпак Авалонских Путей'
-    texture: 'doom'
+    texture: 'avalon'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
@@ -1303,7 +1303,7 @@ items:
   AVALON_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&6Мантия Авалонских Путей'
-    texture: 'doom'
+    texture: 'avalon'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
@@ -1314,7 +1314,7 @@ items:
   AVALON_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&6Набедренники Авалонских Путей'
-    texture: 'doom'
+    texture: 'avalon'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
@@ -1325,7 +1325,7 @@ items:
   AVALON_BOOTS:
     material: 'IRON_BOOTS'
     title: '&6Сапоги Авалонских Путей'
-    texture: 'doom'
+    texture: 'avalon'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
