@@ -1244,3 +1244,48 @@ items:
       - 'critical_damage_strength:9.0:9.0'
       - 'vampirism:8.5:8.5'
     sharpeningLevel: 0
+  DOOM_HELMET:
+    material: 'IRON_HELMET'
+    title: '&6Колпак Рунического Тотема'
+    texture: 'doom'
+    lore:
+      - '&7Качество: &6Легендарный предмет'
+    attributes:
+      - 'health:15.0:15.0'
+      - 'regeneration:9.5:9.5'
+      - 'entity_protection:12.5:12.5'
+    sharpeningLevel: 0
+  DOOM_CHESTPLATE:
+    material: 'IRON_CHESTPLATE'
+    title: '&6Укрепленная Мантия Рунического Тотема'
+    texture: 'doom'
+    lore:
+      - '&7Качество: &6Легендарный предмет'
+    attributes:
+      - 'health:20.0:20.0'
+      - 'regeneration:12.0:12.0'
+      - 'entity_protection:15.5:15.5'
+    sharpeningLevel: 0
+  DOOM_LEGGINGS:
+    material: 'IRON_LEGGINGS'
+    title: '&6Укрепленные Набедренники Рунического Тотема'
+    texture: 'doom'
+    lore:
+      - '&7Качество: &6Легендарный предмет'
+    attributes:
+      - 'health:18.0:18.0'
+      - 'regeneration:10.0:10.0'
+      - 'entity_protection:12.5:12.5'
+    sharpeningLevel: 0
+  DOOM_BOOTS:
+    material: 'IRON_BOOTS'
+    title: '&6Ботфорты Рунического Тотема'
+    texture: 'doom'
+    lore:
+      - '&7Качество: &6Легендарный предмет'
+    attributes:
+      - 'health:12.0:12.0'
+      - 'regeneration:8.0:8.0'
+      - 'entity_protection:10.5:10.5'
+      - 'move_speed:20.5:20.5'
+    sharpeningLevel: 0
