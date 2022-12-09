@@ -1246,7 +1246,7 @@ items:
     sharpeningLevel: 0
   DOOM_HELMET:
     material: 'IRON_HELMET'
-    title: '&6Колпак Рунического Тотема'
+    title: '&6Demon Slayer'
     texture: 'doom'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -1257,7 +1257,7 @@ items:
     sharpeningLevel: 0
   DOOM_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
-    title: '&6Укрепленная Мантия Рунического Тотема'
+    title: '&6Demon Slayer'
     texture: 'doom'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -1268,7 +1268,7 @@ items:
     sharpeningLevel: 0
   DOOM_LEGGINGS:
     material: 'IRON_LEGGINGS'
-    title: '&6Укрепленные Набедренники Рунического Тотема'
+    title: '&6Demon Slayer'
     texture: 'doom'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -1279,7 +1279,7 @@ items:
     sharpeningLevel: 0
   DOOM_BOOTS:
     material: 'IRON_BOOTS'
-    title: '&6Ботфорты Рунического Тотема'
+    title: '&6Demon Slayer'
     texture: 'doom'
     lore:
       - '&7Качество: &6Легендарный предмет'
