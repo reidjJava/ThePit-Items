@@ -1456,7 +1456,7 @@ items:
       - '&7Качество: &cАртефактный предмет'
     attributes:
       - 'health:10.0:10.0'
-      - 'regeneration:10.5:10.5'
+      - 'regeneration:11.5:11.5'
       - 'entity_protection:15.5:15.5'
       - 'move_speed:15.5:15.5'
       - 'chance_critical_damage:4.0:4.0'
@@ -1470,7 +1470,7 @@ items:
       - '&7Качество: &cАртефактный предмет'
     attributes:
       - 'health:9.0:9.0'
-      - 'regeneration:7.5:7.5'
+      - 'regeneration:8.5:8.5'
       - 'entity_protection:12.5:12.5'
       - 'move_speed:12.5:12.5'
       - 'chance_critical_damage:2.5:2.5'
