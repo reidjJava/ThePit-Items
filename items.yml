@@ -1430,7 +1430,7 @@ items:
       - ''
       - '&7Можно обменять, либо же продать'
       - '&7в "&cОбители".'
-   ALBA_HELMET:
+  ALBA_HELMET:
     material: 'IRON_HELMET'
     title: '&6Колпак Святого Капеллана'
     texture: 'kapellan'
@@ -1474,3 +1474,4 @@ items:
       - 'regeneration:8.0:8.0'
       - 'entity_protection:10.5:10.5'
       - 'move_speed:20.5:20.5'
+     sharpeningLevel: 0
