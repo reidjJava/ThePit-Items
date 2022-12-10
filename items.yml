@@ -1382,3 +1382,14 @@ items:
       - 'entity_protection:10.5:10.5'
       - 'move_speed:20.5:20.5'
     sharpeningLevel: 0
+  DEMON_HUNTER:
+    material: 'IRON_SWORD'
+    title: '&6Касание Безумия'
+    texture: 'hunter'
+    lore:
+      - '&7Качество: &6Легендарный предмет'
+    attributes:
+      - 'damage:25.0:25.0'
+      - 'chance_critical_damage:10.5:10.5'
+      - 'critical_damage_strength:9.0:9.0'
+      - 'vampirism:8.5:8.5'
