@@ -1438,8 +1438,9 @@ items:
       - '&7Качество: &cАртефактный предмет'
     attributes:
       - 'health:7.0:7.0'
-      - 'regeneration:9.5:9.5'
+      - 'regeneration:6.5:6.5'
       - 'entity_protection:12.5:12.5'
+      - 'move_speed:10.5:10.5'
     sharpeningLevel: 0
   ALBA_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
@@ -1448,9 +1449,10 @@ items:
     lore:
       - '&7Качество: &cАртефактный предмет'
     attributes:
-      - 'health:10.0:20.0'
-      - 'regeneration:12.0:12.0'
+      - 'health:10.0:10.0'
+      - 'regeneration:11.0:11.0'
       - 'entity_protection:15.5:15.5'
+      - 'move_speed:15.5:15.5'
     sharpeningLevel: 0
   ALBA_LEGGINGS:
     material: 'IRON_LEGGINGS'
@@ -1460,8 +1462,9 @@ items:
       - '&7Качество: &cАртефактный предмет'
     attributes:
       - 'health:9.0:9.0'
-      - 'regeneration:10.0:10.0'
+      - 'regeneration:8.0:8.0'
       - 'entity_protection:12.5:12.5'
+      - 'move_speed:12.5:12.5'
     sharpeningLevel: 0
   ALBA_BOOTS:
     material: 'IRON_BOOTS'
@@ -1471,7 +1474,7 @@ items:
       - '&7Качество: &cАртефактный предмет'
     attributes:
       - 'health:6.0:6.0'
-      - 'regeneration:8.0:8.0'
+      - 'regeneration:5.5:5.5'
       - 'entity_protection:10.5:10.5'
-      - 'move_speed:20.5:20.5'
+      - 'move_speed:8.5:8.5'
     sharpeningLevel: 0
