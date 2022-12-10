@@ -1335,7 +1335,7 @@ items:
       - 'health:12.0:12.0'
       - 'regeneration:8.0:8.0'
       - 'entity_protection:10.5:10.5'
-      - 'move_speed:10.0:20.0'
+      - 'move_speed:10.0:10.0'
     sharpeningLevel: 0
   LICH_HELMET:
     material: 'IRON_HELMET'
