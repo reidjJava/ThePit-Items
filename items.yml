@@ -1474,4 +1474,4 @@ items:
       - 'regeneration:8.0:8.0'
       - 'entity_protection:10.5:10.5'
       - 'move_speed:20.5:20.5'
-     sharpeningLevel: 0
+    sharpeningLevel: 0
