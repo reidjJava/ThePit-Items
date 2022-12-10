@@ -1432,7 +1432,7 @@ items:
       - '&7в "&cОбители".'
    ALBA_HELMET:
     material: 'IRON_HELMET'
-    title: '&6Колпак Авалонских Путей'
+    title: '&6Колпак Святого Капеллана'
     texture: 'lich'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -1443,7 +1443,7 @@ items:
     sharpeningLevel: 0
   ALBA_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
-    title: '&6Мантия Авалонских Путей'
+    title: '&6Мантия Святого Капеллана'
     texture: 'lich'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -1454,7 +1454,7 @@ items:
     sharpeningLevel: 0
   ALBA_LEGGINGS:
     material: 'IRON_LEGGINGS'
-    title: '&6Набедренники Авалонских Путей'
+    title: '&6Набедренники Святого Капеллана'
     texture: 'lich'
     lore:
       - '&7Качество: &6Легендарный предмет'
@@ -1465,7 +1465,7 @@ items:
     sharpeningLevel: 0
   ALBA_BOOTS:
     material: 'IRON_BOOTS'
-    title: '&6Сапоги Авалонских Путей'
+    title: '&6Сапоги Святого Капеланна'
     texture: 'lich'
     lore:
       - '&7Качество: &6Легендарный предмет'
