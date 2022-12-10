@@ -1483,6 +1483,6 @@ items:
       - 'regeneration:5.5:5.5'
       - 'entity_protection:10.5:10.5'
       - 'move_speed:8.5:8.5'
-      - 'chance_critical_damage:1.2:1.2'
-      - 'critical_damage_strength:1.4:1.4'
+      - 'chance_critical_damage:1.0:1.0'
+      - 'critical_damage_strength:1.2:1.2'
     sharpeningLevel: 0
