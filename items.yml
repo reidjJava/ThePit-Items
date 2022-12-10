@@ -1433,7 +1433,7 @@ items:
    ALBA_HELMET:
     material: 'IRON_HELMET'
     title: '&6Колпак Святого Капеллана'
-    texture: 'lich'
+    texture: 'kapellan'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
@@ -1444,7 +1444,7 @@ items:
   ALBA_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&6Мантия Святого Капеллана'
-    texture: 'lich'
+    texture: 'kapellan'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
@@ -1455,7 +1455,7 @@ items:
   ALBA_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&6Набедренники Святого Капеллана'
-    texture: 'lich'
+    texture: 'kapellan'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
@@ -1466,7 +1466,7 @@ items:
   ALBA_BOOTS:
     material: 'IRON_BOOTS'
     title: '&6Сапоги Святого Капеланна'
-    texture: 'lich'
+    texture: 'kapellan'
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
