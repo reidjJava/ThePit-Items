@@ -1067,8 +1067,8 @@ items:
       - '&7Качество: &cАртефактный предмет'
     attributes:
       - 'health:21.0:21.0'
-      - 'regeneration:11.0:11.0'
-      - 'entity_protection:12.5:12.5'
+      - 'regeneration:12.0:12.0'
+      - 'entity_protection:13.5:13.5'
       - 'critical_damage_strength:2.5:2.5'
     sharpeningLevel: 0
   MASTER_BOOTS:
