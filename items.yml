@@ -1042,7 +1042,7 @@ items:
     lore:
       - '&7Качество: &cАртефактный предмет'
     attributes:
-      - 'protection:13.0:13.0'
+      - 'protection:14.0:14.0'
       - 'health:15.0:15.0'
       - 'regeneration:9.0:9.0'
       - 'entity_protection:12.5:12.5'
