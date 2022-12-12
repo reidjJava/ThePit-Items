@@ -1042,7 +1042,7 @@ items:
     lore:
       - '&7Качество: &cАртефактный предмет'
     attributes:
-      - 'protection:7.0:7.0'
+      - 'protection:13.0:13.0'
       - 'health:15.0:15.0'
       - 'regeneration:9.0:9.0'
       - 'entity_protection:12.5:12.5'
@@ -1055,7 +1055,7 @@ items:
     lore:
       - '&7Качество: &cАртефактный предмет'
     attributes:
-      - 'protection:12.0:12.0'
+      - 'protection:21.0:21.0'
       - 'health:23.0:23.0'
       - 'regeneration:14.0:14.0'
       - 'entity_protection:15.5:15.5'
@@ -1069,7 +1069,7 @@ items:
     lore:
       - '&7Качество: &cАртефактный предмет'
     attributes:
-      - 'protection:9.0:9.0'
+      - 'protection:16.0:16.0'
       - 'health:21.0:21.0'
       - 'regeneration:12.0:12.0'
       - 'entity_protection:13.5:13.5'
@@ -1082,7 +1082,7 @@ items:
     lore:
       - '&7Качество: &cАртефактный предмет'
     attributes:
-      - 'protection:5.0:5.0'
+      - 'protection:11.0:11.0'
       - 'health:13.0:13.0'
       - 'regeneration:7.0:7.0'
       - 'entity_protection:10.5:10.5'
@@ -1461,7 +1461,7 @@ items:
     lore:
       - '&7Качество: &cАртефактный предмет'
     attributes:
-      - 'protection:8.0:8.0'
+      - 'protection:9.0:9.0'
       - 'health:10.0:10.0'
       - 'regeneration:11.5:11.5'
       - 'entity_protection:8.0:8.0'
@@ -1476,7 +1476,7 @@ items:
     lore:
       - '&7Качество: &cАртефактный предмет'
     attributes:
-      - 'protection:5.0:5.0'
+      - 'protection:6.0:6.0'
       - 'health:9.0:9.0'
       - 'regeneration:8.5:8.5'
       - 'entity_protection:6.0:6.0'
