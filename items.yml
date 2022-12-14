@@ -188,7 +188,7 @@ items:
       - '&7Качество: &5Мифический предмет'
     attributes:
       - 'health:10.0:10.0'
-   sharpeningLevel: 0     
+    sharpeningLevel: 0     
   GOR_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&5Ножные доспехи Мглистой Горы'
