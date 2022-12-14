@@ -79,6 +79,7 @@ items:
     attributes:
       - 'damage:4.0:4:0'
       - 'chance_critical_damage:2.0:2.0'
+    sharpeningLevel: 0
   RASSEKATEL:
     material: 'STONE_SWORD'
     title: '&9Рассекатель Гор'
@@ -92,6 +93,7 @@ items:
       - 'damage:4.5:4.5'
       - 'chance_critical_damage:1.5:1.5'
       - 'vampirism:1.5:1.5'
+    sharpeningLevel: 0
   BALROG_DEMONIC:
     material: 'IRON_SWORD'
     title: '&5Оскверненный меч Балрога'
@@ -105,6 +107,7 @@ items:
       - 'damage:10.0:10.0'
       - 'chance_critical_damage:5.5:5.5'
       - 'critical_damage_strength:5.0:5.0'
+    sharpeningLevel: 0
   BALROG_SKIPETER:
     material: 'IRON_SWORD'
     title: '&6Астральный Скипетр'
@@ -117,6 +120,7 @@ items:
     attributes:
       - 'damage:12.0:12.0'
       - 'vampirism:4.0:4.0'
+    sharpeningLevel: 0
   BALROG_SWORD:
     material: 'IRON_SWORD'
     title: '&6Искушение Балрога'
@@ -130,6 +134,7 @@ items:
       - 'damage:15.0:15.0'
       - 'chance_critical_damage:7.5:7.5'
       - 'critical_damage_strength:6.0:6.0'
+    sharpeningLevel: 0
   ORK_HELMET:
     material: 'CHAINMAIL_HELMET'
     title: '&aНаголовник Орка'
@@ -138,6 +143,7 @@ items:
       - '&7Качество: &aНеобычный предмет'
     attributes:
       - 'health:1.0:1.0'
+    sharpeningLevel: 0
   ORK_CHESTPLATE:
     material: 'CHAINMAIL_CHESTPLATE'
     title: '&aДоспех Орка'
@@ -146,6 +152,7 @@ items:
       - '&7Качество: &aНеобычный предмет'
     attributes:
       - 'health:1.0:1.0'
+    sharpeningLevel: 0
   ORK_LEGGINGS:
     material: 'CHAINMAIL_LEGGINGS'
     title: '&aНожный доспех Орка'
@@ -154,6 +161,7 @@ items:
       - '&7Качество: &aНеобычный предмет'
     attributes:
       - 'health:1.0:1.0'
+    sharpeningLevel: 0
   ORK_BOOTS:
     material: 'CHAINMAIL_BOOTS'
     title: '&aБотфорты Орка'
@@ -162,6 +170,7 @@ items:
       - '&7Качество: &aНеобычный предмет'
     attributes:
       - 'health:1.0:1.0'
+    sharpeningLevel: 0
   GOR_HELMET:
     material: 'IRON_HELMET'
     title: '&5Наголовник Мглистой Горы'
@@ -170,6 +179,7 @@ items:
       - '&7Качество: &5Мифический предмет'
     attributes:
       - 'health:10.0:10.0'
+    sharpeningLevel: 0
   GOR_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
     title: '&5Доспехи Мглистой Горы'
@@ -178,6 +188,7 @@ items:
       - '&7Качество: &5Мифический предмет'
     attributes:
       - 'health:10.0:10.0'
+   sharpeningLevel: 0     
   GOR_LEGGINGS:
     material: 'IRON_LEGGINGS'
     title: '&5Ножные доспехи Мглистой Горы'
@@ -435,6 +446,7 @@ items:
     attributes:
       - 'health:2.0:2.0'
       - 'regeneration:1.5:1.5'
+    sharpeningLevel: 0
   START_CHESTPLATE:
     material: 'CHAINMAIL_CHESTPLATE'
     title: '&fДоспех Авантюриста'
@@ -444,6 +456,7 @@ items:
     attributes:
       - 'health:3.0:3.0'
       - 'regeneration:2.0:2.0'
+    sharpeningLevel: 0
   START_LEGGINGS:
     material: 'CHAINMAIL_LEGGINGS'
     title: '&fНожные Латы Авантюриста'
@@ -453,6 +466,7 @@ items:
     attributes:
       - 'health:2.0:2.0'
       - 'regeneration:1.5:1.5'
+    sharpeningLevel: 0
   START_BOOTS:
     material: 'CHAINMAIL_BOOTS'
     title: '&fБотфорты Авантюриста'
@@ -462,6 +476,7 @@ items:
     attributes:
       - 'health:1.0:1.0'
       - 'regeneration:1.0:1.0'
+    sharpeningLevel: 0
   START_SWORD:
     material: 'STONE_SWORD'
     title: '&fКлинок Авантюриста'
@@ -471,72 +486,6 @@ items:
     attributes:
       - 'damage:1.5:1.5'
       - 'chance_critical_damage:1.0:1:0'
-  PIRAT_SWORD:
-    material: 'IRON_SWORD'
-    title: '&9Пиратская Сабля'
-    texture: 'sample'
-    lore:
-      - '&7Качество: &9Редкий Предмет'
-    attributes:
-      - 'damage:6.0:6.0'
-      - 'chance_critical_damage:3.5:3.5'
-      - 'critical_damage_strength:4.0:4.0'
-  RAPIRA_SWORD:
-    material: 'IRON_SWORD'
-    title: '&5Рапира Роджера'
-    texture: 'sample'
-    lore:
-      - '&7Качество: &5Мифический предмет'
-    attributes:
-      - 'damage:6.0:6.0'
-      - 'chance_critical_damage:3.5:3.5'
-      - 'critical_damage_strength:4.0:4.0'
-  POSEIDON_SWORD:
-    material: 'IRON_SWORD'
-    title: '&6Волнорез'
-    texture: 'sample'
-    lore:
-      - '&7Качество: &6Легендарный предмет'
-    attributes:
-      - 'damage:6.0:6.0'
-      - 'chance_critical_damage:3.5:3.5'
-      - 'critical_damage_strength:4.0:4.0'
-  PIRATE_HELMET:
-    material: 'LEATHER_HELMET'
-    title: '&fНаголовник Пирата'
-    texture: 'start'
-    lore:
-      - '&7Качество: &fОбычный предмет'
-    attributes:
-      - 'health:2.0:2.0'
-      - 'regeneration:1.5:1.5'
-  PIRATE_CHESTPLATE:
-    material: 'LEATHER_CHESTPLATE'
-    title: '&fДоспех Пирата'
-    texture: 'start'
-    lore:
-      - '&7Качество: &fОбычный предмет'
-    attributes:
-      - 'health:3.0:3.0'
-      - 'regeneration:2.0:2.0'
-  PIRATE_LEGGINGS:
-    material: 'LEATHER_LEGGINGS'
-    title: '&fНожные Латы Пирата'
-    texture: 'start'
-    lore:
-      - '&7Качество: &fОбычный предмет'
-    attributes:
-      - 'health:2.0:2.0'
-      - 'regeneration:1.5:1.5'
-  PIRATE_BOOTS:
-    material: 'LEATHER_BOOTS'
-    title: '&fБотфорты Пирата'
-    texture: 'start'
-    lore:
-      - '&7Качество: &fОбычный предмет'
-    attributes:
-      - 'health:1.0:1.0'
-      - 'regeneration:1.0:1.0'
     sharpeningLevel: 0
   AZHARA_HELMET:
     material: 'IRON_HELMET'
@@ -1393,7 +1342,7 @@ items:
     sharpeningLevel: 0
   XRAN_TOPOR:
     material: 'IRON_SWORD'
-    title: '&6Топор Хранителей Леса'
+    title: '&5Топор Хранителей Леса'
     texture: 'forest'
     lore:
       - '&7Качество: &5Эпический предмет'
@@ -1498,4 +1447,16 @@ items:
       - 'move_speed:8.5:8.5'
       - 'chance_critical_damage:1.0:1.0'
       - 'critical_damage_strength:1.3:1.3'
+    sharpeningLevel: 0
+  XRAN_SWORD:
+    material: 'IRON_SWORD'
+    title: '&5Клинок Хранителей Леса'
+    texture: 'forest2'
+    lore:
+      - '&7Качество: &5Эпический предмет'
+    attributes:
+      - 'damage:25.0:25.0'
+      - 'chance_critical_damage:10.5:10.5'
+      - 'critical_damage_strength:9.0:9.0'
+      - 'vampirism:8.5:8.5'
     sharpeningLevel: 0
