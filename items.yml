@@ -760,13 +760,13 @@ items:
     sharpeningLevel: 0
   BRONZA_HELMET:
     material: 'IRON_HELMET'
-    title: '&6Наголовник Багрового Гладиатора'
+    title: '&aНаголовник Багрового Гладиатора'
     texture: 'bronza'
     lore:
       - '&7Качество: &aНеобычный предмет'
     attributes:
-      - 'health:8.0:8.0'
-      - 'regeneration:6.5:6.5'
+      - 'health:2.0:2.0'
+      - 'regeneration:2.5:2.5'
     sharpeningLevel: 0
   BRONZA_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
@@ -775,8 +775,8 @@ items:
     lore:
       - '&7Качество: &aНеобычный предмет'
     attributes:
-      - 'health:12.0:12.0'
-      - 'regeneration:9.0:9.0'
+      - 'health:4.0:4.0'
+      - 'regeneration:3.5:3.5'
     sharpeningLevel: 0
   BRONZA_LEGGINGS:
     material: 'IRON_LEGGINGS'
@@ -785,8 +785,8 @@ items:
     lore:
       - '&7Качество: &aНеобычный предмет'
     attributes:
-      - 'health:10.0:10.0'
-      - 'regeneration:7.0:7.0'
+      - 'health:2.5:2.5'
+      - 'regeneration:3.0:3.0'
     sharpeningLevel: 0
   BRONZA_BOOTS:
     material: 'IRON_BOOTS'
@@ -795,8 +795,8 @@ items:
     lore:
       - '&7Качество: &aНеобычный предмет'
     attributes:
-      - 'health:7.0:7.0'
-      - 'regeneration:5.0:5.0'
+      - 'health:1.5:1.5'
+      - 'regeneration:1.0:1.0'
     sharpeningLevel: 0
   KNIGHT_HELMET:
     material: 'IRON_HELMET'
