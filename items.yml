@@ -1550,17 +1550,3 @@ items:
       - 'regeneration:8.5:8.5'
       - 'entity_protection:6.0:6.0'
     sharpeningLevel: 0
-  DEMONIC_SPEED:
-    material: 'CLAY_BALL'
-    title: '&6КПризма Репа'
-    texture: 'pripapa'
-    lore:
-      - '&7Качество: &6Легендарный артефакт'
-      - ''
-      - '&7Артефакт с исключительно положительными свойствами.'
-      - '&7Обладает свойствами повышенной регенерации'
-      - '&7и защитой от монстров.'
-    attributes:
-      - 'regeneration:8.5:8.5'
-      - 'entity_protection:6.0:6.0'
-    sharpeningLevel: 0
