@@ -1460,3 +1460,55 @@ items:
       - 'critical_damage_strength:9.0:9.0'
       - 'vampirism:8.5:8.5'
     sharpeningLevel: 0
+  PRISMA:
+    material: 'CLAY_BALL'
+    title: '&aНеобычная Призма'
+    texture: 'prisma1'
+    lore:
+      - '&7Качество: &aНеобычный артефакт'
+      - ''
+      - '&7Артефакт с исключительно положительными свойствами.'
+      - '&7Обладает свойствами повышенной регенерации и защитой от монстров.'
+    attributes:
+      - 'regeneration:8.5:8.5'
+      - 'entity_protection:6.0:6.0
+    sharpeningLevel: 0
+  PRISMA2:
+    material: 'CLAY_BALL'
+    title: '&9Редкая Призма'
+    texture: 'prisma2'
+    lore:
+      - '&7Качество: &9Редкий артефакт'
+      - ''
+      - '&7Артефакт с исключительно положительными свойствами.'
+      - '&7Обладает свойствами повышенной регенерации и защитой от монстров.'
+    attributes:
+      - 'regeneration:8.5:8.5'
+      - 'entity_protection:6.0:6.0
+    sharpeningLevel: 0
+  PRISMA3:
+    material: 'CLAY_BALL'
+    title: '&5Эпическая Призма'
+    texture: 'prisma3'
+    lore:
+      - '&7Качество: &5Эпический артефакт'
+      - ''
+      - '&7Артефакт с исключительно положительными свойствами.'
+      - '&7Обладает свойствами повышенной регенерации и защитой от монстров.'
+    attributes:
+      - 'regeneration:8.5:8.5'
+      - 'entity_protection:6.0:6.0
+    sharpeningLevel: 0
+  PRISMA4:
+    material: 'CLAY_BALL'
+    title: '&6Легендарная Призма'
+    texture: 'prisma4'
+    lore:
+      - '&7Качество: &6Легендарный артефакт'
+      - ''
+      - '&7Артефакт с исключительно положительными свойствами.'
+      - '&7Обладает свойствами повышенной регенерации и защитой от монстров.'
+    attributes:
+      - 'regeneration:8.5:8.5'
+      - 'entity_protection:6.0:6.0
+    sharpeningLevel: 0
