@@ -468,7 +468,7 @@ items:
       - 'regeneration:1.5:1.5'
     sharpeningLevel: 0
   START_BOOTS:
-    material: 'CHAINMAIL_BOOTS'
+    material: 'IRON_BOOTS'
     title: '&fБотфорты Авантюриста'
     texture: 'start'
     lore:
