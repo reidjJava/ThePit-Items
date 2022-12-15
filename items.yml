@@ -444,8 +444,8 @@ items:
     lore:
       - '&7Качество: &fОбычный предмет'
     attributes:
-      - 'health:2.0:2.0'
-      - 'regeneration:1.5:1.5'
+      - 'health:1.0:1.0'
+      - 'regeneration:1.0:1.0'
     sharpeningLevel: 0
   START_CHESTPLATE:
     material: 'CHAINMAIL_CHESTPLATE'
@@ -454,7 +454,7 @@ items:
     lore:
       - '&7Качество: &fОбычный предмет'
     attributes:
-      - 'health:3.0:3.0'
+      - 'health:2.0:2.0'
       - 'regeneration:2.0:2.0'
     sharpeningLevel: 0
   START_LEGGINGS:
@@ -464,7 +464,7 @@ items:
     lore:
       - '&7Качество: &fОбычный предмет'
     attributes:
-      - 'health:2.0:2.0'
+      - 'health:1.0:1.0'
       - 'regeneration:1.5:1.5'
     sharpeningLevel: 0
   START_BOOTS:
@@ -484,9 +484,10 @@ items:
     lore:
       - '&7Качество: &fОбычный предмет'
     attributes:
-      - 'damage:1.5:1.5'
-      - 'chance_critical_damage:1.0:1:0'
-    sharpeningLevel: 0
+      - 'damage:2.5:2.5'
+      - 'chance_critical_damage:1.2:1:2'
+      - 'critical_damage_strength:1.5:1.5'
+   sharpeningLevel: 0
   AZHARA_HELMET:
     material: 'IRON_HELMET'
     title: '&6Маска Азшары'
