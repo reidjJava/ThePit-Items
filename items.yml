@@ -1460,7 +1460,7 @@ items:
       - 'critical_damage_strength:9.0:9.0'
       - 'vampirism:8.5:8.5'
     sharpeningLevel: 0
-  PRISMA:
+  PRISMA1:
     material: 'CLAY_BALL'
     title: '&aНеобычная Призма'
     texture: 'prisma1'
@@ -1471,7 +1471,7 @@ items:
       - '&7Обладает свойствами повышенной регенерации и защитой от монстров.'
     attributes:
       - 'regeneration:8.5:8.5'
-      - 'entity_protection:6.0:6.0
+      - 'entity_protection:6.0:6.0'
     sharpeningLevel: 0
   PRISMA2:
     material: 'CLAY_BALL'
@@ -1484,7 +1484,7 @@ items:
       - '&7Обладает свойствами повышенной регенерации и защитой от монстров.'
     attributes:
       - 'regeneration:8.5:8.5'
-      - 'entity_protection:6.0:6.0
+      - 'entity_protection:6.0:6.0'
     sharpeningLevel: 0
   PRISMA3:
     material: 'CLAY_BALL'
@@ -1497,7 +1497,7 @@ items:
       - '&7Обладает свойствами повышенной регенерации и защитой от монстров.'
     attributes:
       - 'regeneration:8.5:8.5'
-      - 'entity_protection:6.0:6.0
+      - 'entity_protection:6.0:6.0'
     sharpeningLevel: 0
   PRISMA4:
     material: 'CLAY_BALL'
@@ -1510,5 +1510,5 @@ items:
       - '&7Обладает свойствами повышенной регенерации и защитой от монстров.'
     attributes:
       - 'regeneration:8.5:8.5'
-      - 'entity_protection:6.0:6.0
+      - 'entity_protection:6.0:6.0'
     sharpeningLevel: 0
