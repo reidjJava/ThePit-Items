@@ -813,9 +813,9 @@ items:
     lore:
       - '&7Качество: &9Редкий предмет'
     attributes:
-      - 'health:4.0:4.0'
+      - 'health:3.5:3.5'
       - 'regeneration:2.5:2.5'
-      - 'entity_protection:2.0:2:0'
+      - 'entity_protection:2.5:2:5'
       - 'protection:3.0:3.0'
     sharpeningLevel: 0
   KNIGHT_CHESTPLATE:
@@ -825,9 +825,9 @@ items:
     lore:
       - '&7Качество: &9Редкий предмет'
     attributes:
-      - 'health:6.0:6.0'
+      - 'health:5.0:5.0'
       - 'regeneration:4.0:4.0'
-      - 'entity_protection:5.0:5:0'
+      - 'entity_protection:4.5:4:5'
       - 'protection:3.0:3.0'
     sharpeningLevel: 0
   KNIGHT_LEGGINGS:
@@ -849,9 +849,9 @@ items:
     lore:
       - '&7Качество: &9Редкий предмет'
     attributes:
-      - 'health:3.0:3.0'
+      - 'health:2.5:2.5'
       - 'regeneration:2.0:2.0'
-      - 'entity_protection:1.5:1.5'
+      - 'entity_protection:2.0:2.0'
       - 'protection:3.0:3.0'
     sharpeningLevel: 0
   KNIGHT_SWORD:
