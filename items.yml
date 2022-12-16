@@ -480,7 +480,7 @@ items:
       - 'health:1.0:1.0'
       - 'regeneration:1.0:1.0'
       - 'protection:1.0:1.0'
-   sharpeningLevel: 0
+    sharpeningLevel: 0
   START_SWORD:
     material: 'STONE_SWORD'
     title: '&fКлинок Авантюриста'
