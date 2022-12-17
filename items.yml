@@ -872,7 +872,7 @@ items:
     lore:
       - '&7Качество: &5Эпический предмет'
     attributes:
-      - 'health:3.0:3.0'
+      - 'health:4.0:4'
       - 'regeneration:3.5:3.5'
       - 'entity_protection:4.0:4.0'
       - 'protection:4.5:4.5'
