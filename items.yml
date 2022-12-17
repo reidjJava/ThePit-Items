@@ -816,7 +816,7 @@ items:
       - 'health:3.5:3.5'
       - 'regeneration:2.5:2.5'
       - 'entity_protection:2.5:2.5'
-      - 'protection:3.0:3.0'
+      - 'protection:3.5:3.5'
     sharpeningLevel: 0
   KNIGHT_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
@@ -828,7 +828,7 @@ items:
       - 'health:5.0:5.0'
       - 'regeneration:4.0:4.0'
       - 'entity_protection:4.5:4.5'
-      - 'protection:3.0:3.0'
+      - 'protection:5.0:5.0'
     sharpeningLevel: 0
   KNIGHT_LEGGINGS:
     material: 'IRON_LEGGINGS'
@@ -840,7 +840,7 @@ items:
       - 'health:4.0:4.0'
       - 'regeneration:3.0:3.0'
       - 'entity_protection:3.0:3:0'
-      - 'protection:3.0:3.0'
+      - 'protection:4.0:4.0'
     sharpeningLevel: 0
   KNIGHT_BOOTS:
     material: 'IRON_BOOTS'
