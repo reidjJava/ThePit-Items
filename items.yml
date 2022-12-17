@@ -875,7 +875,7 @@ items:
       - 'health:4.0:4'
       - 'regeneration:3.5:3.5'
       - 'entity_protection:5.0:5.0'
-      - 'protection:7.5:7.5'
+      - 'protection:8.5:8.5'
     sharpeningLevel: 0
   GOLD_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
@@ -887,7 +887,7 @@ items:
       - 'health:8.0:8.0'
       - 'regeneration:6.0:6.0'
       - 'entity_protection:9.0:9.0'
-      - 'protection:13.5:13.5'
+      - 'protection:14.5:14.5'
     sharpeningLevel: 0
   GOLD_LEGGINGS:
     material: 'IRON_LEGGINGS'
@@ -899,7 +899,7 @@ items:
       - 'health:5.5:5.5'
       - 'regeneration:4.5:4.5'
       - 'entity_protection:6.0:6.0'
-      - 'protection:10.5:10.5'
+      - 'protection:11.5:11.5'
     sharpeningLevel: 0
   GOLD_BOOTS:
     material: 'IRON_BOOTS'
