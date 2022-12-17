@@ -920,10 +920,10 @@ items:
     lore:
       - '&7Качество: &dМифический предмет'
     attributes:
-      - 'health:8.0:8.0'
+      - 'health:6.0:6.0'
       - 'regeneration:6.5:6.5'
-      - 'entity_protection:4.0:4.0'
-      - 'protection:3.5:3.5'
+      - 'entity_protection:7.0:7.0'
+      - 'protection:7.5:7.5'
     sharpeningLevel: 0
   PLATINUM_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
@@ -934,8 +934,8 @@ items:
     attributes:
       - 'health:12.0:12.0'
       - 'regeneration:9.0:9.0'
-      - 'entity_protection:4.0:4.0'
-      - 'protection:3.5:3.5'
+      - 'entity_protection:12.0:12.0'
+      - 'protection:13.5:13.5'
     sharpeningLevel: 0
   PLATINUM_LEGGINGS:
     material: 'IRON_LEGGINGS'
@@ -944,10 +944,10 @@ items:
     lore:
       - '&7Качество: &dМифический предмет'
     attributes:
-      - 'health:10.0:10.0'
+      - 'health:8.0:8.0'
       - 'regeneration:7.0:7.0'
-      - 'entity_protection:4.0:4.0'
-      - 'protection:3.5:3.5'
+      - 'entity_protection:9.0:9.0'
+      - 'protection:8.5:8.5'
     sharpeningLevel: 0
   PLATINUM_BOOTS:
     material: 'IRON_BOOTS'
@@ -956,10 +956,10 @@ items:
     lore:
       - '&7Качество: &dМифический предмет'
     attributes:
-      - 'health:7.0:7.0'
+      - 'health:4.0:4.0'
       - 'regeneration:5.0:5.0'
-      - 'entity_protection:4.0:4.0'
-      - 'protection:3.5:3.5'
+      - 'entity_protection:5.0:5.0'
+      - 'protection:5.5:5.5'
     sharpeningLevel: 0
   PLATINUM_SWORD:
     material: 'IRON_SWORD'
