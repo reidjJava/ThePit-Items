@@ -968,10 +968,10 @@ items:
     lore:
       - '&7Качество: &dМифический предмет'
     attributes:
-      - 'damage:25.0:25.0'
-      - 'chance_critical_damage:10.5:10.5'
+      - 'damage:13.0:13.0'
+      - 'chance_critical_damage:7.5:7.5'
       - 'critical_damage_strength:9.0:9.0'
-      - 'vampirism:8.5:8.5'
+      - 'vampirism:7.5:7.5'
     sharpeningLevel: 0
   DIAMOND_HELMET:
     material: 'IRON_HELMET'
