@@ -980,8 +980,10 @@ items:
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
-      - 'health:8.0:8.0'
-      - 'regeneration:6.5:6.5'
+      - 'health:9.0:9.0'
+      - 'regeneration:8.5:8.5'
+      - 'entity_protection:9.0:9.0'
+      - 'protection:8.5:8.5'
     sharpeningLevel: 0
   DIAMOND_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
@@ -990,8 +992,10 @@ items:
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
-      - 'health:12.0:12.0'
-      - 'regeneration:9.0:9.0'
+      - 'health:15.0:15.0'
+      - 'regeneration:12.0:12.0'
+      - 'entity_protection:14.0:14.0'
+      - 'protection:13.5:13.5'
     sharpeningLevel: 0
   DIAMOND_LEGGINGS:
     material: 'IRON_LEGGINGS'
@@ -1000,8 +1004,10 @@ items:
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
-      - 'health:10.0:10.0'
-      - 'regeneration:7.0:7.0'
+      - 'health:11.0:11.0'
+      - 'regeneration:9.5:9.5'
+      - 'entity_protection:11.0:11.0'
+      - 'protection:9.5:9.5'
     sharpeningLevel: 0
   DIAMOND_BOOTS:
     material: 'IRON_BOOTS'
@@ -1010,8 +1016,10 @@ items:
     lore:
       - '&7Качество: &6Легендарный предмет'
     attributes:
-      - 'health:7.0:7.0'
-      - 'regeneration:5.0:5.0'
+      - 'health:7.5:7.5'
+      - 'regeneration:6.5:6.5'
+      - 'entity_protection:7.0:7.0'
+      - 'protection:7.5:7.5'
     sharpeningLevel: 0
   MASTER_HELMET:
     material: 'IRON_HELMET'
