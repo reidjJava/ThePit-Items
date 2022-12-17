@@ -920,7 +920,7 @@ items:
     lore:
       - '&7Качество: &dМифический предмет'
     attributes:
-      - 'health:6.0:6.0'
+      - 'health:7.0:7.0'
       - 'regeneration:6.5:6.5'
       - 'entity_protection:7.0:7.0'
       - 'protection:7.5:7.5'
@@ -932,7 +932,7 @@ items:
     lore:
       - '&7Качество: &dМифический предмет'
     attributes:
-      - 'health:12.0:12.0'
+      - 'health:13.0:13.0'
       - 'regeneration:9.0:9.0'
       - 'entity_protection:12.0:12.0'
       - 'protection:13.5:13.5'
@@ -944,7 +944,7 @@ items:
     lore:
       - '&7Качество: &dМифический предмет'
     attributes:
-      - 'health:8.0:8.0'
+      - 'health:9.0:9.0'
       - 'regeneration:7.0:7.0'
       - 'entity_protection:9.0:9.0'
       - 'protection:8.5:8.5'
@@ -956,7 +956,7 @@ items:
     lore:
       - '&7Качество: &dМифический предмет'
     attributes:
-      - 'health:4.0:4.0'
+      - 'health:6.0:6.0'
       - 'regeneration:5.0:5.0'
       - 'entity_protection:5.0:5.0'
       - 'protection:5.5:5.5'
