@@ -983,7 +983,7 @@ items:
       - 'health:9.0:9.0'
       - 'regeneration:8.5:8.5'
       - 'entity_protection:9.0:9.0'
-      - 'protection:8.5:8.5'
+      - 'protection:9.0:9.0'
     sharpeningLevel: 0
   DIAMOND_CHESTPLATE:
     material: 'IRON_CHESTPLATE'
@@ -994,7 +994,7 @@ items:
     attributes:
       - 'health:15.0:15.0'
       - 'regeneration:12.0:12.0'
-      - 'entity_protection:14.0:14.0'
+      - 'entity_protection:13.0:13.0'
       - 'protection:13.5:13.5'
     sharpeningLevel: 0
   DIAMOND_LEGGINGS:
@@ -1007,7 +1007,7 @@ items:
       - 'health:11.0:11.0'
       - 'regeneration:9.5:9.5'
       - 'entity_protection:11.0:11.0'
-      - 'protection:9.5:9.5'
+      - 'protection:10.0:10.0'
     sharpeningLevel: 0
   DIAMOND_BOOTS:
     material: 'IRON_BOOTS'
