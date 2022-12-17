@@ -1032,7 +1032,7 @@ items:
       - 'health:15.0:15.0'
       - 'regeneration:9.0:9.0'
       - 'entity_protection:12.5:12.5'
-      - 'vampirism:7.5:7.5'
+      - 'vampirism:3.5:3.5'
       - 'move_speed:2.5:2.5'
     sharpeningLevel: 0
   MASTER_CHESTPLATE:
@@ -1049,6 +1049,7 @@ items:
       - 'chance_critical_damage:5.0:5.0'
       - 'critical_damage_strength:3.5:3.5'
       - 'move_speed:5.0:5.0'
+      - 'vampirism:5.5:5.5'
     sharpeningLevel: 0
   MASTER_LEGGINGS:
     material: 'IRON_LEGGINGS'
@@ -1063,6 +1064,7 @@ items:
       - 'entity_protection:13.5:13.5'
       - 'critical_damage_strength:2.5:2.5'
       - 'move_speed:2.5:2.5'
+      - 'vampirism:4.5:4.5'
     sharpeningLevel: 0
   MASTER_BOOTS:
     material: 'IRON_BOOTS'
@@ -1076,6 +1078,7 @@ items:
       - 'regeneration:7.0:7.0'
       - 'entity_protection:10.5:10.5'
       - 'move_speed:2.0:2.0'
+      - 'vampirism:2.5:2.5'
     sharpeningLevel: 0
   MASTER_SWORD:
     material: 'DIAMOND_SWORD'
