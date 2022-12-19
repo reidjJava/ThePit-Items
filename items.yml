@@ -1600,18 +1600,18 @@ items:
     texture: 'bag'
     lore:
       - 'Очень большая крутая сумка от гучи'
-    bagUUID: 'bda3f154-4f9d-4a02-a414-e4365fbe4bb3'
+    bag: 'test'
   BAG2:
     material: 'CLAY_BALL'
     title: 'Тест сумка2'
     texture: 'bag'
     lore:
       - 'Очень большая крутая сумка от гучи'
-    bag: 'test'
+    bag: 'test2'
   BAG3:
     material: 'CLAY_BALL'
     title: 'Тест сумка3'
-    texture: 'test2'
+    texture: 'bag'
     lore:
       - 'Очень большая крутая сумка от гучи'
-    bagUUID: 'a75c5b63-8251-4734-a92d-6578caaf5e07'
+    bag: 'test3'
