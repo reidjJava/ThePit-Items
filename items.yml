@@ -1594,3 +1594,31 @@ items:
       - 'regeneration:8.5:8.5'
       - 'entity_protection:6.0:6.0'
     sharpeningLevel: 0
+  BAG1:
+    material: 'CLAY_BALL'
+    title: 'Тест сумка1'
+    texture: 'bag'
+    lore:
+      - 'Очень большая крутая сумка от гучи'
+    bagUUID: 'bda3f154-4f9d-4a02-a414-e4365fbe4bb3'
+  BAG2:
+    material: 'CLAY_BALL'
+    title: 'Тест сумка2'
+    texture: 'bag'
+    lore:
+      - 'Очень большая крутая сумка от гучи'
+    bagUUID: '70cce03e-04c6-4557-8bc4-05b5f16d87a8'
+  BAG3:
+    material: 'CLAY_BALL'
+    title: 'Тест сумка3'
+    texture: 'bag'
+    lore:
+      - 'Очень большая крутая сумка от гучи'
+    bagUUID: 'a75c5b63-8251-4734-a92d-6578caaf5e07'
+  BAG4:
+    material: 'CLAY_BALL'
+    title: 'Тест сумка4'
+    texture: 'bag'
+    lore:
+      - 'Очень большая крутая сумка от гучи'
+    bagUUID: '89010f7b-daf8-42dc-b228-c9247bb565d3'
