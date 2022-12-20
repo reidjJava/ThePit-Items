@@ -1592,7 +1592,7 @@ items:
       - '&7и защитой от монстров.'
     attributes:
       - 'regeneration:8.5:8.5'
-      - 'entity_protection:6.0:6.0'
+      - 'move_speed:8.5:8.5
     sharpeningLevel: 0
   BAG1:
     material: 'CLAY_BALL'
