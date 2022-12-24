@@ -1596,7 +1596,7 @@ items:
     material: 'CLAY_BALL'
     title: 'Тест сумка1'
     texture: 'bag'
-    size: 8
+    size: 9
     uuidBackpack: 'random'
     items: ''
     lore:
