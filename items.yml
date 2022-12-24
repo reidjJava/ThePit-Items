@@ -1592,3 +1592,21 @@ items:
       - ''
       - '&7Используется в бартере, либо для продажи'
       - '&7в "&cОбители"'
+  BAG1:
+    material: 'CLAY_BALL'
+    title: 'Тест сумка1'
+    texture: 'bag'
+    size: 9
+    uuidBackpack: 'random'
+    items: ''
+    lore:
+      - 'Очень большая крутая сумка от гучи'
+  BAG3:
+    material: 'CLAY_BALL'
+    title: 'Тест сумка3'
+    texture: 'bag'
+    size: 27
+    uuidBackpack: 'random'
+    items: ''
+    lore:
+      - 'Очень большая крутая сумка от гучи'
