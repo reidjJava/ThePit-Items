@@ -1516,7 +1516,8 @@ items:
     attributes:
       - 'regeneration:8.5:8.5'
       - 'entity_protection:6.0:6.0'
-    sharpeningLevel: 0
+    sharpeningLevel: 10
+    isArtefact: true
   PRISMA_RARE:
     material: 'CLAY_BALL'
     title: '&9Редкая Призма'
@@ -1529,7 +1530,8 @@ items:
     attributes:
       - 'regeneration:8.5:8.5'
       - 'entity_protection:6.0:6.0'
-    sharpeningLevel: 0
+    sharpeningLevel: 10
+    isArtefact: true
   PRISMA_EPIC:
     material: 'CLAY_BALL'
     title: '&5Эпическая Призма'
@@ -1542,7 +1544,8 @@ items:
     attributes:
       - 'regeneration:8.5:8.5'
       - 'entity_protection:6.0:6.0'
-    sharpeningLevel: 0
+    sharpeningLevel: 10
+    isArtefact: true
   PRISMA_LEGENDARY:
     material: 'CLAY_BALL'
     title: '&6Легендарная Призма'
@@ -1555,7 +1558,8 @@ items:
     attributes:
       - 'regeneration:8.5:8.5'
       - 'entity_protection:6.0:6.0'
-    sharpeningLevel: 0
+    sharpeningLevel: 10
+    isArtefact: true
   KRUG_NG:
     material: 'CLAY_BALL'
     title: '&6Новогодняя Игрушка'
@@ -1565,7 +1569,8 @@ items:
     attributes:
       - 'regeneration:8.5:8.5'
       - 'entity_protection:6.0:6.0'
-    sharpeningLevel: 0
+    sharpeningLevel: 10
+    isArtefact: true
   FORES_PRISMA:
     material: 'CLAY_BALL'
     title: '&dЛесной Амулет'
@@ -1579,11 +1584,14 @@ items:
     attributes:
       - 'regeneration:8.5:8.5'
       - 'entity_protection:6.0:6.0'
-    sharpeningLevel: 0
+    sharpeningLevel: 10
+    isArtefact: true
   MAGIC_AMPULA:
     material: 'CLAY_BALL'
     title: '&dЯдро Магического Леса'
     texture: 'magic'
+    isArtefact: true
+    sharpeningLevel: 10
     lore:
       - '&7Редкость: &dМифический Материал'
       - ''
